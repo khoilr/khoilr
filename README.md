@@ -2,16 +2,18 @@
 
 ## ℹ️ Contact Information
 
-You can contact me in either of the following ways:
+You can get in touch with me in either of the following ways:
 
-- 💌: [lcngmnhkhoi@gmail.com](mailto:lcngmnhkhoi@gmail.com)
-- 📞: [+84 372 300 853](tel:+84372300853)
-- Telegram: [@khoilr](https://t.me/khoilr)
-- Facebook: [Lê Công Minh Khôi](https://www.facebook.com/khoilr)
+<div style="margin: auto; text-align:center">
 
-Besides, you can check out my [LinkedIn profile](https://www.linkedin.com/in/khoilr/).
+[![Gmail Badge](https://img.shields.io/badge/lcngmnhkhoi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcngmnhkhoi@gmail.com)
+[![Phone Badge](https://img.shields.io/badge/0372300853-323330?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAABOElEQVRIie3Vvy5DYRgH4EODRBcSEtyCUQejiMRVGBgsYjOLhcUNkF6AhJgJk0EMKgaJhdoYiIjEYGkeQ89A+51G03MOQ3/jlzd5vj/53jeKuvnrYAn3qGA0L3TLz5TzQOc1p4aprOHTAAzn6MkSfk+AYSFL+LUF/IhiGk5vYO2uRf1EFEWTWcGHLepvoyi6TgNuCsbxkXDVs5mg3/CNAFrJFI3hIh4a4GcM54GX8NmAn2EgD3w1cOV7smwk3/DdAL6dB1zAQQDfQaGhtg/TGEwL78dRAD/GUFwzg5t4/QnLCPWJtvEiTgL4C64C69QHS+dTLT75fgKSlBrKGOkUL8Tv224uOz55vIEVzf+8VaqpwDFeQvWX8GJqcIwXsS55sMBmqmjDBsawhgv1vv6m/t3mMkO7+df5AuZc43McFtgEAAAAAElFTkSuQmCC&logoColor=white)](tel:+84372300853)  
+[![Telegram Badge](https://img.shields.io/badge/khoilr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khoilr)
+[![Facebook Badge](https://img.shields.io/badge/L%C3%AA%20C%C3%B4ng%20Minh%20Kh%C3%B4i-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khoilr)
+[![LinkedIn Badge](https://img.shields.io/badge/khoilr-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoilr/)
+</div>
 
-You can find [my resumes here](https://drive.google.com/drive/folders/15ClLE11WMxZeqjlt8Q5hPzH6ZznrRs21?usp=sharing).
+My resumes are also be available [here](https://drive.google.com/drive/folders/15ClLE11WMxZeqjlt8Q5hPzH6ZznrRs21?usp=sharing).
 
 ## 👨‍💻 Career Path
 
