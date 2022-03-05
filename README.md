@@ -35,9 +35,11 @@ My very first certificate is from Google Analytics - [Introduction to Data Studi
 
 Watching movies is my favorite hobby. Some films I like are: *The Walking Dead*, *Stranger Things*, *Money Heists*, *Lupin*, *The Marvel Cinematic Universe*, and *The DC Universe*, etc. I also watch a little bit of anime (I'm not a big fan of anime), those are: *Naruto*, *Demons Slayer*, and *Attack on Titan*.
 
-I also love listening to music. Try [my Spotify](https://open.spotify.com/playlist/5uJtaafEanWoz5ObTyE5q2?si=b17ef27abb5d4071) to discover if our musical tastes are similar.
+![My Netflix playlist](images/www.netflix.com_browse_my-list.png)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5uJtaafEanWoz5ObTyE5q2?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+I also love listening to music. Try my **Spotify** to discover if our musical tastes are similar.
+
+[![My Spotify playlist](images/open.spotify.com_playlist_5uJtaafEanWoz5ObTyE5q2_si=b17ef27abb5d4071&nd=1.png)](https://open.spotify.com/playlist/5uJtaafEanWoz5ObTyE5q2?si=b17ef27abb5d4071)
 
 I was encouraged from a young age to always do well in school, therefore I have a strong interest in studying and reading. *The Alchemist* by Paulo Coelho, *The Legendary Series* by Marie Lu, *The Call of the Wild* by Jack London, and *The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared* by Jonas Jonasson are some of the novels I've read.
 
