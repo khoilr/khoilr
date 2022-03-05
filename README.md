@@ -35,7 +35,7 @@ My very first certificate is from Google Analytics - [Introduction to Data Studi
 
 Watching movies is my favorite hobby. Some films I like are: *The Walking Dead*, *Stranger Things*, *Money Heists*, *Lupin*, *The Marvel Cinematic Universe*, and *The DC Universe*, etc. I also watch a little bit of anime (I'm not a big fan of anime), those are: *Naruto*, *Demons Slayer*, and *Attack on Titan*.
 
-![My Netflix playlist](images/www.netflix.com_browse_my-list.png)
+![My Netflix playlist](images/www.netflix.com_browse_my-list.png "My Netflix playlist")
 
 I also love listening to music. Try my **Spotify** to discover if our musical tastes are similar.
 
