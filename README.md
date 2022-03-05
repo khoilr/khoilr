@@ -1,6 +1,6 @@
-# 🙋‍♂️ Lê Công Minh Khôi
+# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=L%C3%AA+C%C3%B4ng+Minh+Kh%C3%B4i&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F9C859&size=18&duration=2000&multiline=true&height=100&lines=Hi;I'm+Kh%C3%B4i;Nice+to+meet+you!;I+hope+we+can+be+friend+%F0%9F%98%8A)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F9C859&duration=2000&multiline=true&height=100&lines=Hi;I'm+Kh%C3%B4i;I'm+on+the+way+to+become;a+Data+Engineer)
 
 ## 📡 Reach Me
 
