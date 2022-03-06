@@ -31,7 +31,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: "images/isocalendar.svg"
-          extra_css: |
+          extras_css: |
             h2.field{ 
                 color: #F9C859
             }

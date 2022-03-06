@@ -35,7 +35,7 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_trim: yes
           filename: "images/coding-habit.svg"
-          extra_css: |
+          extras_css: |
             h2.field{ 
                 color: #F9C859
             }
