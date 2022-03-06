@@ -30,7 +30,7 @@ jobs:
           config_timezone: Asia/Saigon
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          filename: "images/isocalendar.svg"
+          filename: "images/actions/isocalendar.svg"
           extras_css: |
             h2.field {
               font-weight: bold; 

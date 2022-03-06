@@ -34,7 +34,7 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_from: 1000
           plugin_habits_trim: yes
-          filename: "images/coding-habit.svg"
+          filename: "images/actions/coding-habit.svg"
           extras_css: |
             h2.field{ 
               font-weight: bold;
