@@ -26,7 +26,7 @@ jobs:
           user: khoilr
           template: classic
           base: ""
-          config_display: regular
+          config_display: columns
           config_timezone: Asia/Saigon
           plugin_habits: yes
           plugin_habits_charts: yes
