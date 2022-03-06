@@ -26,14 +26,14 @@ jobs:
           user: khoilr
           template: classic
           base: ""
-          config_display: regular
+          config_display: large
           config_timezone: Asia/Saigon
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: "images/isocalendar.svg"
           extras_css: |
             h2.field {
-              font-weight: bold, 
+              font-weight: bold; 
               font-size:16px;
               color: #F9C859;
             }
