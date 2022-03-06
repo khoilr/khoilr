@@ -59,11 +59,6 @@ The top five projects that I am most enthusiastic about are as follows:
 
 ![Metrics](images/github-metrics.svg)
 
-### WakaTime
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## 😻 Interests
 
 Watching movies 🎬 is my favorite hobby. Some films I like are: *The Walking Dead*, *Stranger Things*, *Money Heists*, *Lupin*, *The Marvel Cinematic Universe*, and *The DC Universe*, etc. I also watch a little bit of anime (I'm not a big fan of anime), those are: *Naruto*, *Demons Slayer*, and *Attack on Titan*.
