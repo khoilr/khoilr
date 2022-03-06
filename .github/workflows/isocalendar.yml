@@ -26,17 +26,20 @@ jobs:
           user: khoilr
           template: classic
           base: ""
-          config_display: regular
+          config_display: large
           config_timezone: Asia/Saigon
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 30
-          plugin_habits_facts: no
-          plugin_habits_from: 1000
-          plugin_habits_trim: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_lines: yes
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          filename: "images/github-metrics.svg"
+          filename: "images/isocalendar.svg"
+          extra_css: |
+            h2.field{ 
+                color: #F9C859
+            }
+            div.row{
+                display: none;
+            }
+            svg {
+                background: #22272e
+            }
+          
+          
