@@ -37,7 +37,19 @@ jobs:
           filename: "images/coding-habit.svg"
           extras_css: |
             h2.field{ 
-              font-weight:400, 
-              font-size:16px;
+              font-weight: bold, 
+              font-size: 16px;
               color: #F9C859;
+            }
+            h3 {
+              color: #10B1FE;
+            }
+            :root {
+            --color-calendar-graph-day-L1-bg: #fca3be;
+            --color-calendar-graph-day-L2-bg: #fa729b;
+            --color-calendar-graph-day-L3-bg: #f84079;
+            --color-calendar-graph-day-L4-bg: #f60f56;
+            }
+            .entry { 
+              color: #ABB2BF;
             }
