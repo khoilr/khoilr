@@ -1,6 +1,6 @@
-# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=L%C3%AA+C%C3%B4ng+Minh+Kh%C3%B4i&animation=fadeIn)
+# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=L%C3%AA+C%C3%B4ng+Minh+Kh%C3%B4i&animation=fadeIn&fontAlignY=55)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F9C859&duration=2000&multiline=true&height=105&lines=Hi%2C;I'm+Kh%C3%B4i.;I'm+on+the+way+to+become...;a+Data+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23f6b00f&duration=2000&multiline=true&height=105&lines=Hi%2C;I'm+Kh%C3%B4i.;I'm+on+the+way+to+become...;a+Data+Engineer.)
 
 ## 📡 Reach Me
 
@@ -17,25 +17,6 @@ You can get in touch with me in either of the following ways:
 </div>
 
 My resumes are available [here](https://drive.google.com/drive/folders/15ClLE11WMxZeqjlt8Q5hPzH6ZznrRs21?usp=sharing).
-
-## 📊 Activity Statistics
-
-### Stackoverflow stats
-
-[![StackOverflow stats](https://github-readme-stackoverflow.vercel.app/?userID=14227064&layout=compact&theme=dark)](https://stackoverflow.com/users/14227064/l%c3%aa-c%c3%b4ng-minh-kh%c3%b4i)
-
-### GitHub Stats
-
-<p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?show_icons=True&amp;username=khoilr&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False&amp;include_all_commits=True&amp;count_private=True" alt="Stats"> <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=khoilr&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;ring=F9C859&amp;currStreakNum=F9598A&amp;sideLabels=43C2FE&amp;sideNums=FB8AAD&amp;fire=F6B00F&amp;dates=ABB2BF&amp;background=22272e&amp;currStreakLabel=10B1FE" alt="Streak">
-<img src="https://activity-graph.herokuapp.com/graph?username=khoilr&amp;bg_color=22272e&amp;hide_border=true&amp;color=10B1FE&amp;line=F9C859&amp;point=f9598a" alt="Contribution Graph">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoilr&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False&amp;layout=compact&amp;langs_count=5" alt="Top Languages">
-</p>
-
-### WakaTime
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 👨‍💻 Career Path
 
@@ -59,6 +40,29 @@ I've worked on *Machine Learning*, *Data Crawling*, *Natural Language Processing
 The top five projects that I am most enthusiastic about are as follows:
 
 <a href="https://github.com/khoilr/Classroom-Clone"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=khoilr&amp;repo=classroom-clone&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False" alt="Classroom Clone"></a> <a href="https://github.com/khoilr/Company-Management-with-MySQL"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=khoilr&amp;repo=Company-Management-with-MySQL&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False" alt="Company Management with MySQL"></a> <a href="https://github.com/khoilr/Bitcoin-Price-Prediction-using-LSTM"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=khoilr&amp;repo=Bitcoin-Price-Prediction-using-LSTM&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False" alt="Bitcoin&#39;s Price Prediction with LSTM"></a> <a href="https://github.com/khoilr/Covid-Tracing-using-DBSCAN"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=khoilr&amp;repo=Covid-Tracing-using-DBSCAN&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False" alt="Covid Tracing with DBSCAN"></a> <a href="https://github.com/khoilr/Twitter-Crawler"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=khoilr&amp;repo=Twitter-Crawler&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False" alt="Twitter Crawler"></a>
+
+## 📊 Activity Statistics
+
+### Stack Overflow stats
+
+[![StackOverflow stats](https://github-readme-stackoverflow.vercel.app/?userID=14227064&layout=compact&theme=dark)](https://stackoverflow.com/users/14227064/l%c3%aa-c%c3%b4ng-minh-kh%c3%b4i)
+
+### GitHub stats
+
+<p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?show_icons=True&amp;username=khoilr&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False&amp;include_all_commits=True&amp;count_private=True" alt="Stats"> <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=khoilr&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;ring=F9C859&amp;currStreakNum=F9598A&amp;sideLabels=43C2FE&amp;sideNums=FB8AAD&amp;fire=F6B00F&amp;dates=ABB2BF&amp;background=22272e&amp;currStreakLabel=10B1FE" alt="Streak">
+<img width="98.6%" src="https://activity-graph.herokuapp.com/graph?username=khoilr&amp;bg_color=22272e&amp;hide_border=true&amp;color=10B1FE&amp;line=F9C859&amp;point=f9598a" alt="Contribution Graph">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoilr&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False&amp;layout=compact&amp;langs_count=5" alt="Top Languages">
+</p>
+
+### Metrics
+
+![Metrics](images/github-metrics.svg)
+
+### WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 😻 Interests
 
