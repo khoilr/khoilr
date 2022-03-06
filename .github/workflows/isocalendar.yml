@@ -31,6 +31,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: "images/actions/isocalendar.svg"
+          config_padding: 16
           extras_css: |
             h2.field {
               font-weight: bold; 
