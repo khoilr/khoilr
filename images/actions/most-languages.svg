@@ -23,7 +23,7 @@ h3 {
 h2.field svg {
  display:none;
 }
-sgv {
+svg {
  background: #22272e;
 }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
