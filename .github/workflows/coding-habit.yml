@@ -38,7 +38,7 @@ jobs:
           extras_css: |
             h2.field{ 
               font-weight: bold;
-              font-size: 16px;
+              font-size: 18px;
               color: #F9C859;
             }
             h3 {
