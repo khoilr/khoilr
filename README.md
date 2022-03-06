@@ -20,6 +20,8 @@ My resumes are available [here](https://drive.google.com/drive/folders/15ClLE11W
 
 ## 👨‍💻 Career Path
 
+[![StackOverflow stats](https://github-readme-stackoverflow.vercel.app/?userID=14227064&layout=compact&theme=dark)](https://stackoverflow.com/users/14227064/l%c3%aa-c%c3%b4ng-minh-kh%c3%b4i)
+
 I am now an undergraduate student at [Ton Duc Thang University](<https://www.tdtu.edu.vn/en>), where I am majoring in Software Engineering.
 
 In the future, I hope to work as a **data engineer**. Furthermore, I aspire to be a **data scientist**.
@@ -80,22 +82,12 @@ The top five projects that I am most enthusiastic about are as follows:
 
 ## 📊 Activity Statistics
 
-### Stack Overflow stats
-
-[![StackOverflow stats](https://github-readme-stackoverflow.vercel.app/?userID=14227064&layout=compact&theme=dark)](https://stackoverflow.com/users/14227064/l%c3%aa-c%c3%b4ng-minh-kh%c3%b4i)
-
-### GitHub stats
-
 <p>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?show_icons=True&username=khoilr&title_color=F9C859&text_color=10B1FE&icon_color=f9598a&bg_color=22272e&hide_border=False&include_all_commits=True&count_private=True" alt="Stats"> <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=khoilr&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;ring=F9C859&amp;currStreakNum=F9598A&amp;sideLabels=43C2FE&amp;sideNums=FB8AAD&amp;fire=F6B00F&amp;dates=ABB2BF&amp;background=22272e&amp;currStreakLabel=10B1FE" alt="Streak">
 <img width="98.6%" src="https://activity-graph.herokuapp.com/graph?username=khoilr&amp;bg_color=22272e&amp;hide_border=true&amp;color=10B1FE&amp;line=F9C859&amp;point=f9598a" alt="Contribution Graph">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoilr&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False&amp;layout=compact&amp;langs_count=5" alt="Top Languages">
+<img src="images/actions/isocalendar.svg" alt="Isocalendar">
+<img src="images/actions/coding-habit.svg" alt="Coding Activity">
 </p>
-
-### Metrics
-
-![Coding habits](images/coding-habit.svg)
-![Isocalendar](images/isocalendar.svg)
 
 ## 😻 Interests
 

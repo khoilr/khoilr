@@ -26,7 +26,7 @@ jobs:
           user: khoilr
           template: classic
           base: ""
-          config_display: large
+          config_display: columns
           config_timezone: Asia/Saigon
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -34,7 +34,20 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_from: 1000
           plugin_habits_trim: yes
+
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 1000
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
           filename: "images/actions/coding-habit.svg"
+
           extras_css: |
             h2.field{ 
               font-weight: bold;
@@ -45,11 +58,17 @@ jobs:
               color: #10B1FE;
             }
             :root {
-            --color-calendar-graph-day-L1-bg: #fca3be;
-            --color-calendar-graph-day-L2-bg: #fa729b;
-            --color-calendar-graph-day-L3-bg: #f84079;
-            --color-calendar-graph-day-L4-bg: #f60f56;
+              --color-calendar-graph-day-L1-bg: #fca3be;
+              --color-calendar-graph-day-L2-bg: #fa729b;
+              --color-calendar-graph-day-L3-bg: #f84079;
+              --color-calendar-graph-day-L4-bg: #f60f56;
             }
             .entry { 
               color: #ABB2BF;
+            }
+            h2.field svg {
+              display:none;
+            }
+            sgv {
+              background: #22272e;
             }
