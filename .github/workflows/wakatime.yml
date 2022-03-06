@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Coding Habit
+name: WakaTime
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -28,13 +28,14 @@ jobs:
           base: ""
           config_display: regular
           config_timezone: Asia/Saigon
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 30
-          plugin_habits_facts: no
-          plugin_habits_from: 1000
-          plugin_habits_trim: yes
-          filename: "images/actions/coding-habit.svg"
+          plugin_wakatime_token: $ {{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects-graphs, languages-graphs
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
+          filename: "images/actions/wakatime.svg"
           config_padding: 16
           extras_css: |
             h2.field{ 
@@ -59,7 +60,4 @@ jobs:
             }
             svg {
               background: #22272e;
-            }
-            section.column.chart:nth-of-type(3) {
-              display: none;
             }
