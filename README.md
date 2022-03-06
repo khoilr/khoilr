@@ -57,8 +57,8 @@ The top five projects that I am most enthusiastic about are as follows:
 
 ### Metrics
 
-![Coding habits](images/coding-habits.svg)
-![Isocalendar](images/github-metrics.svg)
+![Coding habits](images/coding-habit.svg)
+![Isocalendar](images/isocalendar.svg)
 
 ## 😻 Interests
 
