@@ -43,11 +43,8 @@ jobs:
             h2.field svg{
               display:none;
             }
-            svg {
-              background: #22272e;
-            }
           extras_js: |
-            document.querySelectorAll('[fill="#ebedf0"]')?.forEach(e => e.setAttribute("fill", "#001722"))
+            document.querySelectorAll('[fill="#ebedf0"]')?.forEach(e => e.setAttribute("fill", "#22272e"))
             document.querySelectorAll('[fill="#9be9a8"]')?.forEach(e => e.setAttribute("fill", "#fca3be"))
             document.querySelectorAll('[fill="#40c463"]')?.forEach(e => e.setAttribute("fill", "#fa729b"))
             document.querySelectorAll('[fill="#30a14e"]')?.forEach(e => e.setAttribute("fill", "#f84079"))
