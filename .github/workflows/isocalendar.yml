@@ -33,13 +33,12 @@ jobs:
           filename: "images/isocalendar.svg"
           extras_css: |
             h2.field{ 
-                color: #F9C859
+              font-weight:400, 
+              font-size:16px;
+              color: #F9C859;
             }
             div.row{
-                display: none;
-            }
-            svg {
-                background: #22272e
+              visibility: hidden;
             }
           
           

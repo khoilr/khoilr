@@ -26,7 +26,7 @@ jobs:
           user: khoilr
           template: classic
           base: ""
-          config_display: large
+          config_display: regular
           config_timezone: Asia/Saigon
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -37,8 +37,7 @@ jobs:
           filename: "images/coding-habit.svg"
           extras_css: |
             h2.field{ 
-                color: #F9C859
-            }
-            svg {
-                background: #22272e
+              font-weight:400, 
+              font-size:16px;
+              color: #F9C859;
             }
