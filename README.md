@@ -1,8 +1,8 @@
 # ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=L%C3%AA+C%C3%B4ng+Minh+Kh%C3%B4i&animation=fadeIn&fontAlignY=55)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23f6b00f&duration=2000&multiline=true&height=105&lines=Hi%2C;I'm+Kh%C3%B4i.;I'm+on+the+way+to+become...;a+Data+Engineer.)
+<p><img align='top' src="https://readme-typing-svg.herokuapp.com?color=%23f6b00f&amp;duration=2000&amp;multiline=true&amp;height=105&amp;width=320&amp;lines=Hi%2C;I&#39;m+Kh%C3%B4i.;I&#39;m+on+the+way+to+become...;a+Data+Engineer." alt="Typing SVG"> <img height='110px' src="images/my-octocat.svg" alt="Octocat"></p>
 
-## 📡 Reach Me
+## 📡 How to reach me
 
 You can get in touch with me in either of the following ways:
 
@@ -18,7 +18,7 @@ You can get in touch with me in either of the following ways:
 
 My resumes are available [here](https://drive.google.com/drive/folders/15ClLE11WMxZeqjlt8Q5hPzH6ZznrRs21?usp=sharing).
 
-## 👨‍💻 Career Path
+## 👨‍💻 My career path
 
 [![StackOverflow stats](https://github-readme-stackoverflow.vercel.app/?userID=14227064&layout=compact&theme=dark)](https://stackoverflow.com/users/14227064/l%c3%aa-c%c3%b4ng-minh-kh%c3%b4i)
 
@@ -27,7 +27,7 @@ I am now an undergraduate student at [Ton Duc Thang University](<https://www.tdt
 In the future, I hope to work as a **data engineer**. Furthermore, I aspire to be a **data scientist**.
 I am really interested in data science and am continuously searching for new methods to better my abilities.
 
-## 🏅 Certificates
+## 🏅 Certificates I have archived
 
 My very first certificate is from Google Analytics - Introduction to Data Studio. I have got this certificate from in March 2022.
 
