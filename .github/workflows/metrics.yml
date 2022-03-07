@@ -183,4 +183,5 @@ jobs:
             }
             div.items-wrapper {
               padding: 6px;
+              width: 498px;
             }
