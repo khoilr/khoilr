@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="337" class="" style="height: 305px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="323" class="">
     <defs>
         <style/>
     </defs>
@@ -10,9 +10,6 @@ h2.field {
  font-weight: bold; 
  font-size: 10px;
  color: #F9C859;
-}
-div.row {
- visibility: hidden;
 }
 h2.field svg{
  display:none;
@@ -68,7 +65,7 @@ h2.field svg{
                         </div>
                     </section>
                 </div>
-                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="5, 20 415, 245">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,270">
                     <filter id="brightness1">
                         <feComponentTransfer>
                             <feFuncR type="linear" slope="0.6"/>
