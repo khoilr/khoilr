@@ -8,11 +8,11 @@
  font-size: 18px;
  color: #e8a308;
 }
-div.name span:nth-child(1) {
- color: #01a9f9;
+.repository .name span:first-child {
+ color: #01a9f9!important;
 }
-div.name span:nth-child(2) {
- color: #e8084d;
+.repository .name span:last-child {
+ color: #e8084d!important;
 }
 :root {
  --color-calendar-graph-day-L1-bg: #fca3be;
