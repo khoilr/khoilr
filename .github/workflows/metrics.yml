@@ -1,0 +1,137 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Coding habit
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: khoilr
+          template: classic
+          base: ""
+          config_display: regular
+          config_timezone: Asia/Saigon
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: no
+          plugin_habits_from: 1000
+          plugin_habits_trim: yes
+          filename: "images/actions/coding-habit.svg"
+          config_padding: 16
+          extras_css: |
+            h2.field{ 
+              font-weight: bold;
+              font-size: 18px;
+              color: #F9C859;
+              margin: 0;
+            }
+            h3 {
+              color: #10B1FE;
+            }
+            :root {
+              --color-calendar-graph-day-L1-bg: #fca3be;
+              --color-calendar-graph-day-L2-bg: #fa729b;
+              --color-calendar-graph-day-L3-bg: #f84079;
+              --color-calendar-graph-day-L4-bg: #f60f56;
+            }
+            .entry { 
+              color: #ABB2BF;
+            }
+            h2.field svg {
+              display:none;
+            }
+            svg {
+              background: #22272e;
+              padding: 16;
+              border-radius: 6;
+            }
+            svg > foreignObject > div.items-wrapper > div > section:nth-child(2) {
+              display: none;
+            }
+      
+      # WakaTime
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: khoilr
+          template: classic
+          base: ""
+          config_display: regular
+          config_timezone: Asia/Saigon
+          plugin_wakatime_token: $ {{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects-graphs, languages-graphs
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: khoilr
+          filename: "images/actions/wakatime.svg"
+          extras_css: |
+            h2.field{ 
+              font-weight: bold;
+              font-size: 18px;
+              color: #F9C859;
+              margin: 0;
+            }
+            h3 {
+              color: #10B1FE;
+            }
+            :root {
+              --color-calendar-graph-day-L1-bg: #fca3be;
+              --color-calendar-graph-day-L2-bg: #fa729b;
+              --color-calendar-graph-day-L3-bg: #f84079;
+              --color-calendar-graph-day-L4-bg: #f60f56;
+            }
+            .entry { 
+              color: #ABB2BF;
+            }
+            h2.field svg {
+              display:none;
+            }
+            svg {
+              background: #22272e;
+              padding: 16;
+              border-radius: 6;
+            }
+      
+      # Isocalendar
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: khoilr
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: Asia/Saigon
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          filename: "images/actions/isocalendar.svg"
+          extras_css: |
+            h2.field {
+              font-weight: bold; 
+              font-size: 18px;
+              color: #F9C859;
+            }
+            div.row {
+              visibility: hidden;
+            }
+            h2.field svg{
+              display:none;
+            }
+          extras_js: |
+            document.querySelectorAll('[fill="#ebedf0"]')?.forEach(e => e.setAttribute("fill", "#22272e"))
+            document.querySelectorAll('[fill="#9be9a8"]')?.forEach(e => e.setAttribute("fill", "#fca3be"))
+            document.querySelectorAll('[fill="#40c463"]')?.forEach(e => e.setAttribute("fill", "#fa729b"))
+            document.querySelectorAll('[fill="#30a14e"]')?.forEach(e => e.setAttribute("fill", "#f84079"))
+            document.querySelectorAll('[fill="#216e39"]')?.forEach(e => e.setAttribute("fill", "#f60f56"))
+
+          
