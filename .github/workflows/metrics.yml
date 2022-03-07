@@ -25,7 +25,7 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_from: 1000
           plugin_habits_trim: yes
-          config_padding: 0, -8.375px
+          config_padding: 0, -6px
           filename: "images/actions/coding-habit.svg"
           extras_css: |
             h2.field{ 
@@ -113,7 +113,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: "images/actions/isocalendar.svg"
-          config_padding: 0, -32.125px
+          config_padding: 0, -6px
           extras_css: |
             h2.field{ 
               font-weight: bold;
