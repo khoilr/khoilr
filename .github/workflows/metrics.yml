@@ -171,7 +171,7 @@ jobs:
             .repository .name span:first-child {
               color: #01a9f9!important;
             }
-            .field svg {
+            .field > svg {
               fill: #e8084d!important;
             }
             :root {
