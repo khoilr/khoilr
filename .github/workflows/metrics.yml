@@ -50,6 +50,7 @@ jobs:
             div.items-wrapper {
               background: #22272e;
               border-radius: 6px;
+              padding: 6px;
             }
             svg > foreignObject > div.items-wrapper > div > section:nth-child(2) {
               display: none;
@@ -96,6 +97,7 @@ jobs:
             div.items-wrapper {
               background: #22272e;
               border-radius: 6px;
+              padding: 6px;
             }
       
       # Isocalendar
@@ -134,6 +136,7 @@ jobs:
             div.items-wrapper {
               background: #22272e;
               border-radius: 6px;
+              padding: 6px;
             }
             svg > foreignObject > div.items-wrapper > section > div > section:nth-child(2) > div.field {
                 color: #ABB2BF;
