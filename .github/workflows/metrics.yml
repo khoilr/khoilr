@@ -25,7 +25,7 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_from: 1000
           plugin_habits_trim: yes
-          config_padding: 0
+          config_padding: 0, 6px
           filename: "images/actions/coding-habit.svg"
           extras_css: |
             h2.field{ 
@@ -161,7 +161,7 @@ jobs:
           config_timezone: Asia/Saigon 
           plugin_stars: yes
           plugin_stars_limit: 3
-          config_padding: 0, 6px
+          config_padding: 0
           filename: "images/actions/starred.svg"
           extras_css: |
             h2.field{ 
