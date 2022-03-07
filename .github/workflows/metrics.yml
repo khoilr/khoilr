@@ -47,8 +47,9 @@ jobs:
             h2.field svg {
               display:none;
             }
-            svg {
+            div.items-wrapper {
               background: #22272e;
+              border-radius: 6px;
             }
             svg > foreignObject > div.items-wrapper > div > section:nth-child(2) {
               display: none;
@@ -92,8 +93,9 @@ jobs:
             h2.field svg {
               display:none;
             }
-            svg {
+            div.items-wrapper {
               background: #22272e;
+              border-radius: 6px;
             }
       
       # Isocalendar
@@ -103,7 +105,7 @@ jobs:
           user: khoilr
           template: classic
           base: ""
-          config_display: regular
+          config_display: large
           config_timezone: Asia/Saigon
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -129,8 +131,9 @@ jobs:
             h2.field svg {
               display:none;
             }
-            svg > foreignObject > div.items-wrapper > section > div > section:nth-child(2) {
+            div.items-wrapper {
               background: #22272e;
+              border-radius: 6px;
             }
             svg > foreignObject > div.items-wrapper > section > div > section:nth-child(2) > div.field {
                 color: #ABB2BF;

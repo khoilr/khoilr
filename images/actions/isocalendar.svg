@@ -25,6 +25,7 @@ h2.field svg {
 }
 svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section:nth-child(2) {
  background: #22272e;
+ border-radius: 6px;
 }
 svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section:nth-child(2) &gt; div.field {
  color: #ABB2BF;

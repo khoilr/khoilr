@@ -23,8 +23,9 @@ h3 {
 h2.field svg {
  display:none;
 }
-svg {
- background: #22272e;
+div.items-wrapper {
+background: #22272e;
+border-radius: 6px;
 }
 svg &gt; foreignObject &gt; div.items-wrapper &gt; div &gt; section:nth-child(2) {
  display: none;
