@@ -87,19 +87,19 @@ Watching movies 🎬 is one of my hobbies. Some of my favorite films include:
 - *Lupin*
 - *The Marvel Cinematic Universe*
 - *The DC Universe*
-- etc.
+- etc
 
 I also watch a little anime (I'm not a big fan of anime), those are:
 
 - *Naruto*
 - *Demons Slayer*
-- *Attack on Titan*.
-
-Nothing surpasses coding and listening to music at the same time. Try [my Spotify playlist](https://open.spotify.com/playlist/5uJtaafEanWoz5ObTyE5q2?si=b17ef27abb5d4071) to discover if our musical tastes are similar.
+- *Attack on Titan*
 
 Aside from Facebook and Tiktok, exploring GitHub repositories to learn and contribute to the development of your own projects is really an excellent option.
 
 ![Starred](images/actions/starred.svg)
+
+Nothing surpasses coding and listening to music at the same time. Try [my Spotify playlist](https://open.spotify.com/playlist/5uJtaafEanWoz5ObTyE5q2?si=b17ef27abb5d4071) to discover if our musical tastes are similar.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&redirect=true)
 
