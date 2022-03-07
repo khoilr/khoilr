@@ -161,7 +161,7 @@ jobs:
           config_timezone: Asia/Saigon 
           plugin_stars: yes
           plugin_stars_limit: 3
-          config_padding: 0
+          config_padding: 6px, 6px
           filename: "images/actions/starred.svg"
           extras_css: |
             h2.field{ 
