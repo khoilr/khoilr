@@ -25,8 +25,11 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_from: 1000
           plugin_habits_trim: yes
-          config_padding: 0, -16.75px
+          config_padding: 0, -8.375px
           filename: "images/actions/coding-habit.svg"
+          output_action: gist
+          committer_token: $ {{ secrets.GH_TOKEN }}
+          committer_gist: 14b1e4e20afaf1d770e2ed6d619bbfd4
           extras_css: |
             h2.field{ 
               font-weight: bold;
@@ -74,7 +77,6 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: khoilr
           filename: "images/actions/wakatime.svg"
-          config_padding: 0, -32.125px
           extras_css: |
             h2.field{ 
               font-weight: bold;
@@ -114,6 +116,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: "images/actions/isocalendar.svg"
+          config_padding: 0, -32.125px
           extras_css: |
             h2.field{ 
               font-weight: bold;
