@@ -168,8 +168,11 @@ jobs:
               font-size: 18px;
               color: #e8a308;
             }
-            h3 {
+            div.name span:nth-child(1) {
               color: #01a9f9;
+            }
+            div.name span:nth-child(2) {
+              color: #e8084d;
             }
             :root {
               --color-calendar-graph-day-L1-bg: #fca3be;
