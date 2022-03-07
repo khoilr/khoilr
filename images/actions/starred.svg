@@ -11,7 +11,7 @@
 .repository .name span:first-child {
  color: #01a9f9!important;
 }
-.field svg {
+.field &gt; svg {
  fill: #e8084d!important;
 }
 :root {
@@ -39,7 +39,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ashutosh00710/github-readme-activity-graph</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A dynamically generated activity graph to show your GitHub activities of last 31 days.</div>
@@ -92,7 +92,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zzetao/awesome-github-profile</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌐  A website of awesome Github Profile READMEs</div>
@@ -139,7 +139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DenverCoder1/github-readme-streak-stats</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README</div>
