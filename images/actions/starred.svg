@@ -11,8 +11,8 @@
 .repository .name span:first-child {
  color: #01a9f9!important;
 }
-.repository .name span:last-child {
- color: #e8084d!important;
+.field svg {
+ fill: #e8084d!important;
 }
 :root {
  --color-calendar-graph-day-L1-bg: #fca3be;
