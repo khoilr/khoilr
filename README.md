@@ -2,7 +2,7 @@
 
 <p><img align='top' src="https://readme-typing-svg.herokuapp.com?color=%23f6b00f&amp;duration=2000&amp;multiline=true&amp;height=105&amp;width=320&amp;lines=Hi%2C;I&#39;m+Kh%C3%B4i.;I&#39;m+on+the+way+to+become...;a+Data+Engineer." alt="Typing SVG"> <img height='110px' src="images/my-octocat.svg" alt="Octocat"></p>
 
-## 📡 How to reach me
+## 📡 Feel free to contact me
 
 You can get in touch with me in either of the following ways:
 
@@ -22,20 +22,20 @@ My resumes are available [here](https://drive.google.com/drive/folders/15ClLE11W
 
 [![StackOverflow stats](https://github-readme-stackoverflow.vercel.app/?userID=14227064&layout=compact&theme=dark)](https://stackoverflow.com/users/14227064/l%c3%aa-c%c3%b4ng-minh-kh%c3%b4i)
 
-I am now an undergraduate student at [Ton Duc Thang University](<https://www.tdtu.edu.vn/en>), where I am majoring in Software Engineering.
+I am now an undergraduate student at [Ton Duc Thang University](<https://www.tdtu.edu.vn/en>), where I am majoring in **Software Engineering**.
 
 In the future, I hope to work as a **data engineer**. Furthermore, I aspire to be a **data scientist**.
-I am really interested in data science and am continuously searching for new methods to better my abilities.
+I am really interested in data science and am continuously searching for new methods to improve my abilities.
 
 ## 🏅 Certificates I have archived
 
-My very first certificate is from Google Analytics - Introduction to Data Studio. I have got this certificate from in March 2022.
+My very first certificate is from **Google Analytics - Introduction to Data Studio**. I have got this certificate from in March 2022.
 
 [![Introduction to Data Studio](images/certificates/analytics.google.com_analytics_academy_certificate_5MebS9poTdyDvK8_tJmgEQ.png)](https://analytics.google.com/analytics/academy/certificate/5MebS9poTdyDvK8_tJmgEQ)
 
-## 🤓 Understanding
+## 🤓 What I have learned
 
-**Python** and **SQL** are two languages that I am familiar with, along with what ***Python libraries*** I can use. I also know how to write code in *Java*, *HTML*, *CSS*, *Javascript*, and *PHP*.
+**Python** and **SQL** are two languages that I am familiar with, along with various ***Python packages*** I can implement. I also know how to write code in *Java*, *HTML*, *CSS*, *Javascript*, and *PHP*.
 
 <table>
 <thead>
@@ -67,7 +67,7 @@ My very first certificate is from Google Analytics - Introduction to Data Studio
 </tbody>
 </table>
 
-## 🗂️ Projects
+## 🗂️ My personal projects
 
 I've worked on *Machine Learning*, *Data Crawling*, *Natural Language Processing*, and *Data Visualization* projects in the past, you can take a look at my [repositories](https://github.com/khoilr?tab=repositories).
 
@@ -75,7 +75,39 @@ The top five projects that I am most enthusiastic about are as follows:
 
 <a href="https://github.com/khoilr/Classroom-Clone"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=khoilr&amp;repo=classroom-clone&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False" alt="Classroom Clone"></a> <a href="https://github.com/khoilr/Company-Management-with-MySQL"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=khoilr&amp;repo=Company-Management-with-MySQL&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False" alt="Company Management with MySQL"></a> <a href="https://github.com/khoilr/Bitcoin-Price-Prediction-using-LSTM"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=khoilr&amp;repo=Bitcoin-Price-Prediction-using-LSTM&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False" alt="Bitcoin&#39;s Price Prediction with LSTM"></a> <a href="https://github.com/khoilr/Covid-Tracing-using-DBSCAN"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=khoilr&amp;repo=Covid-Tracing-using-DBSCAN&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False" alt="Covid Tracing with DBSCAN"></a> <a href="https://github.com/khoilr/Twitter-Crawler"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=khoilr&amp;repo=Twitter-Crawler&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False" alt="Twitter Crawler"></a>
 
-## 📊 Activity Statistics
+## 😻 What I typically do in my spare time
+
+In my leisure time, I frequently spend it on social media platforms such as Facebook or Tiktok (I also intend to become a Tiktok content creator 😆).
+
+Watching movies 🎬 is one of my hobbies. Some of my favorite films include:
+
+- *The Walking Dead*
+- *Stranger Things*
+- *Money Heists*
+- *Lupin*
+- *The Marvel Cinematic Universe*
+- *The DC Universe*
+- etc.
+
+I also watch a little anime (I'm not a big fan of anime), those are:
+
+- *Naruto*
+- *Demons Slayer*
+- *Attack on Titan*.
+
+Nothing surpasses coding and listening to music at the same time. Try [my Spotify playlist](https://open.spotify.com/playlist/5uJtaafEanWoz5ObTyE5q2?si=b17ef27abb5d4071) to discover if our musical tastes are similar.
+
+Aside from Facebook and Tiktok, exploring GitHub repositories to learn and contribute to the development of your own projects is really an excellent option.
+
+![Starred](images/starred.svg)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&redirect=true)
+
+I was encouraged from a young age to always do well in school, therefore I have a strong interest in studying and reading. *The Alchemist* by Paulo Coelho, *The Legendary Series* by Marie Lu, *The Call of the Wild* by Jack London, and *The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared* by Jonas Jonasson are some of the novels I've read 📖.
+
+And finally, cats, lots of cats.
+
+## 📊 Get more insight into my activities
 
 <p>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?show_icons=True&username=khoilr&title_color=F9C859&text_color=10B1FE&icon_color=f9598a&bg_color=22272e&hide_border=False&include_all_commits=True&count_private=True&custom_title=GitHub%20stats" alt="Stats"> <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=khoilr&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;ring=F9C859&amp;currStreakNum=F9598A&amp;sideLabels=43C2FE&amp;sideNums=FB8AAD&amp;fire=F6B00F&amp;dates=ABB2BF&amp;background=22272e&amp;currStreakLabel=10B1FE" alt="Streak">
@@ -83,18 +115,6 @@ The top five projects that I am most enthusiastic about are as follows:
 <img width="49%" src="images/actions/coding-habit.svg" alt="Coding Activity"> <img width="49%" src="images/actions/wakatime.svg" alt="Coding Activity" align="top">
 <img width="98.6%" src="images/actions/isocalendar.svg" alt="Isocalendar" >
 </p>
-
-## 😻 Interests
-
-Watching movies 🎬 is my favorite hobby. Some films I like are: *The Walking Dead*, *Stranger Things*, *Money Heists*, *Lupin*, *The Marvel Cinematic Universe*, and *The DC Universe*, etc. I also watch a little bit of anime (I'm not a big fan of anime), those are: *Naruto*, *Demons Slayer*, and *Attack on Titan*.
-
-I also love listening to music. Try [my Spotify playlist](https://open.spotify.com/playlist/5uJtaafEanWoz5ObTyE5q2?si=b17ef27abb5d4071) to discover if our musical tastes are similar.
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&redirect=true)
-
-I was encouraged from a young age to always do well in school, therefore I have a strong interest in studying and reading. *The Alchemist* by Paulo Coelho, *The Legendary Series* by Marie Lu, *The Call of the Wild* by Jack London, and *The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared* by Jonas Jonasson are some of the novels I've read 📖.
-
-And finally, cats, lots of cats.
 
 ---
 
