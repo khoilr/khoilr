@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="344" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="337" class="" style="height: 305px;">
     <defs>
         <style/>
     </defs>
@@ -68,7 +68,7 @@ h2.field svg{
                         </div>
                     </section>
                 </div>
-                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="-10, 10 440, 265">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="5, 20 415, 245">
                     <filter id="brightness1">
                         <feComponentTransfer>
                             <feFuncR type="linear" slope="0.6"/>
