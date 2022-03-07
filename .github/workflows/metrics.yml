@@ -114,7 +114,7 @@ jobs:
             }
             h2.field {
               font-weight: bold; 
-              font-size: 18px;
+              font-size: 10px;
               color: #F9C859;
             }
             div.row {
@@ -124,11 +124,12 @@ jobs:
               display:none;
             }
           extras_js: |
-            document.querySelectorAll('[fill="#ebedf0"]')?.forEach(e => e.setAttribute("fill", "#002536"))
+            document.querySelectorAll('[fill="#ebedf0"]')?.forEach(e => e.setAttribute("fill", "#001722"))
             document.querySelectorAll('[fill="#9be9a8"]')?.forEach(e => e.setAttribute("fill", "#fca3be"))
             document.querySelectorAll('[fill="#40c463"]')?.forEach(e => e.setAttribute("fill", "#fa729b"))
             document.querySelectorAll('[fill="#30a14e"]')?.forEach(e => e.setAttribute("fill", "#f84079"))
             document.querySelectorAll('[fill="#216e39"]')?.forEach(e => e.setAttribute("fill", "#f60f56"))
-            document.querySelector('div.items-wrapper > section > svg').setAttribute('viewBox', '7,-35 408,295');
+            document.querySelector('div.items-wrapper > section > svg').setAttribute('viewBox', '-10, 10 440, 265');
+            document.querySelector('svg').setAttribute('height', '305');
 
           
