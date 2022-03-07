@@ -120,9 +120,10 @@ jobs:
               font-weight: bold; 
               font-size: 18px;
               color: #F9C859;
+              margin: 0;
             }
             div.row {
-              visibility: hidden;
+              display: none;
             }
             h2.field svg{
               display:none;
@@ -133,5 +134,6 @@ jobs:
             document.querySelectorAll('[fill="#40c463"]')?.forEach(e => e.setAttribute("fill", "#fa729b"))
             document.querySelectorAll('[fill="#30a14e"]')?.forEach(e => e.setAttribute("fill", "#f84079"))
             document.querySelectorAll('[fill="#216e39"]')?.forEach(e => e.setAttribute("fill", "#f60f56"))
+            document.querySelector('div.items-wrapper > section > svg').setAttribute('viewBox', '7,-35 408,295');
 
           
