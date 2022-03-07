@@ -22,6 +22,7 @@
 }
 div.items-wrapper {
  padding: 6px;
+ width: 498px;
 }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -142,7 +143,7 @@ div.items-wrapper {
                                     </svg>
                                     <div class="name">
                                         <span>DenverCoder1/github-readme-streak-stats</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README</div>
