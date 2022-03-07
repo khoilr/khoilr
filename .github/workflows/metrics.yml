@@ -26,7 +26,6 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_trim: yes
           filename: "images/actions/coding-habit.svg"
-          config_padding: 16
           extras_css: |
             h2.field{ 
               font-weight: bold;
@@ -51,8 +50,6 @@ jobs:
             }
             svg {
               background: #22272e;
-              padding: 16px;
-              border-radius: 6px;
             }
             svg > foreignObject > div.items-wrapper > div > section:nth-child(2) {
               display: none;
@@ -99,8 +96,6 @@ jobs:
             }
             svg {
               background: #22272e;
-              padding: 16px;
-              border-radius: 6px;
             }
       
       # Isocalendar
@@ -116,6 +111,9 @@ jobs:
           plugin_isocalendar_duration: full-year
           filename: "images/actions/isocalendar.svg"
           extras_css: |
+            svg {
+              background: #22272e;
+            }
             h2.field {
               font-weight: bold; 
               font-size: 18px;
@@ -129,7 +127,7 @@ jobs:
               display:none;
             }
           extras_js: |
-            document.querySelectorAll('[fill="#ebedf0"]')?.forEach(e => e.setAttribute("fill", "#22272e"))
+            document.querySelectorAll('[fill="#ebedf0"]')?.forEach(e => e.setAttribute("fill", "#002536"))
             document.querySelectorAll('[fill="#9be9a8"]')?.forEach(e => e.setAttribute("fill", "#fca3be"))
             document.querySelectorAll('[fill="#40c463"]')?.forEach(e => e.setAttribute("fill", "#fa729b"))
             document.querySelectorAll('[fill="#30a14e"]')?.forEach(e => e.setAttribute("fill", "#f84079"))
