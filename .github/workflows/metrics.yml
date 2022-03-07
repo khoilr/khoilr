@@ -25,6 +25,7 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_from: 1000
           plugin_habits_trim: yes
+          config_padding: 0, -33.5px
           filename: "images/actions/coding-habit.svg"
           extras_css: |
             h2.field{ 
@@ -55,8 +56,6 @@ jobs:
             svg > foreignObject > div.items-wrapper > div > section:nth-child(2) {
               display: none;
             }
-          extras_js: |
-            document.querySelector('svg').setAttribute('height', 262.5);
 
       # WakaTime
       - uses: lowlighter/metrics@latest
@@ -75,6 +74,7 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: khoilr
           filename: "images/actions/wakatime.svg"
+          config_padding: 0, -64.25px
           extras_css: |
             h2.field{ 
               font-weight: bold;
@@ -149,4 +149,3 @@ jobs:
             document.querySelectorAll('[fill="#40c463"]')?.forEach(e => e.setAttribute("fill", "#fa729b"))
             document.querySelectorAll('[fill="#30a14e"]')?.forEach(e => e.setAttribute("fill", "#f84079"))
             document.querySelectorAll('[fill="#216e39"]')?.forEach(e => e.setAttribute("fill", "#f60f56"))
-            document.querySelector('svg').setAttribute('height', 574.75);
