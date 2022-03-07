@@ -109,16 +109,31 @@ jobs:
           plugin_isocalendar_duration: full-year
           filename: "images/actions/isocalendar.svg"
           extras_css: |
-            svg {
-              background: #22272e;
-            }
-            h2.field {
-              font-weight: bold; 
-              font-size: 10px;
+            h2.field{ 
+              font-weight: bold;
+              font-size: 18px;
               color: #F9C859;
             }
-            h2.field svg{
+            h3 {
+              color: #10B1FE;
+            }
+            :root {
+              --color-calendar-graph-day-L1-bg: #fca3be;
+              --color-calendar-graph-day-L2-bg: #fa729b;
+              --color-calendar-graph-day-L3-bg: #f84079;
+              --color-calendar-graph-day-L4-bg: #f60f56;
+            }
+            .entry { 
+              color: #ABB2BF;
+            }
+            h2.field svg {
               display:none;
+            }
+            svg > foreignObject > div.items-wrapper > section > div > section:nth-child(2) {
+              background: #22272e;
+            }
+            svg > foreignObject > div.items-wrapper > section > div > section:nth-child(2) > div.field {
+                color: #ABB2BF;
             }
           extras_js: |
             document.querySelectorAll('[fill="#ebedf0"]')?.forEach(e => e.setAttribute("fill", "#001722"))
