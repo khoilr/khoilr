@@ -31,7 +31,6 @@ jobs:
               font-weight: bold;
               font-size: 18px;
               color: #F9C859;
-              margin: 0;
             }
             h3 {
               color: #10B1FE;
@@ -77,7 +76,6 @@ jobs:
               font-weight: bold;
               font-size: 18px;
               color: #F9C859;
-              margin: 0;
             }
             h3 {
               color: #10B1FE;
@@ -105,7 +103,7 @@ jobs:
           user: khoilr
           template: classic
           base: ""
-          config_display: large
+          config_display: regular
           config_timezone: Asia/Saigon
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -118,10 +116,9 @@ jobs:
               font-weight: bold; 
               font-size: 18px;
               color: #F9C859;
-              margin: 0;
             }
             div.row {
-              display: none;
+              visibility: hidden;
             }
             h2.field svg{
               display:none;
