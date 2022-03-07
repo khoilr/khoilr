@@ -99,7 +99,7 @@ Nothing surpasses coding and listening to music at the same time. Try [my Spotif
 
 Aside from Facebook and Tiktok, exploring GitHub repositories to learn and contribute to the development of your own projects is really an excellent option.
 
-![Starred](images/starred.svg)
+![Starred](images/actions/starred.svg)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&redirect=true)
 
