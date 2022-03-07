@@ -27,9 +27,6 @@ jobs:
           plugin_habits_trim: yes
           config_padding: 0, -8.375px
           filename: "images/actions/coding-habit.svg"
-          output_action: gist
-          committer_token: ${{ secrets.GH_TOKEN }}
-          committer_gist: 14b1e4e20afaf1d770e2ed6d619bbfd4
           extras_css: |
             h2.field{ 
               font-weight: bold;
