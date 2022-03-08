@@ -1,4 +1,4 @@
-# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=%2ADoing%20%27tr%C3%B2%20con%20b%C3%B2%27%20to%20welcome%20you%2A&fontSize=42&animation=fadeIn&fontAlignY=53&width=200)
+# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=%2ADoing%20%27tr%C3%B2%20con%20b%C3%B2%27%20to%20welcome%2A&fontSize=42&animation=fadeIn&fontAlignY=53&width=200)
 
 <p><img src="https://readme-typing-svg.herokuapp.com?color=%23f6b00f&amp;duration=2000&amp;multiline=true&amp;height=88&amp;size=16&&amp;width=320&amp;lines=Hello%2C+World%21;I&#39;m+Minh+Kh%C3%B4i.;I&#39;m+on+the+way+to+become...;a+Data+Engineer." alt="Typing SVG"> <img align='right' height='88px' src="images/my-octocat.svg" alt="Octocat"></p>
 
