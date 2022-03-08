@@ -32,6 +32,8 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          config_output: gist
+          config_output: markdown
           output_action: gist
           committer_gist: f16700179b8cf5840540d4d728b24278
+          config_base64: yes
+
