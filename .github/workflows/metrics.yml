@@ -102,7 +102,7 @@ jobs:
   
   isocalendar:
     runs-on: ubuntu-latest
-    steps    
+    steps:
       # Isocalendar
       - uses: lowlighter/metrics@latest
         with:
@@ -154,7 +154,7 @@ jobs:
   
   recent-starred:
     runs-on: ubuntu-latest
-    steps
+    steps:
       # recent starred
       - uses: lowlighter/metrics@latest
         with:
