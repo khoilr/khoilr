@@ -121,4 +121,4 @@ And finally, **cats, lots of cats.**
 <img width="98.6%" src="images/actions/isocalendar.svg" alt="Isocalendar" >
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&height=90&width=200&text=%F0%9F%98%98+Thank+you+for+visiting+my+GitHub+profile%21&fontSize=16&fontAlign=19&fontAlignY=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&height=90&width=200&text=%F0%9F%98%98+Thank+you+for+visiting+my+GitHub+profile%21&fontSize=16&fontAlign=20&fontAlignY=90)

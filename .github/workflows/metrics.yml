@@ -52,7 +52,9 @@ jobs:
               border-radius: 6px;
               padding: 6px;
             }
-  
+            svg > foreignObject > div.items-wrapper > div > section:nth-child(2) {
+              display: none;
+            }
   wakatime:
     runs-on: ubuntu-latest
     steps:
