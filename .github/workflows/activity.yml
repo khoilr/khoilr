@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: Activity
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -33,4 +33,5 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           config_output: gist
+          output_action: gist
           committer_gist: f16700179b8cf5840540d4d728b24278
