@@ -166,7 +166,6 @@ jobs:
           config_timezone: Asia/Saigon 
           plugin_stars: yes
           plugin_stars_limit: 3
-          config_padding: 0, 6px
           filename: "images/actions/starred.svg"
           extras_css: |
             h2.field{ 
@@ -186,6 +185,4 @@ jobs:
               --color-calendar-graph-day-L3-bg: #f84079;
               --color-calendar-graph-day-L4-bg: #f60f56;
             }
-            div.items-wrapper {
-              padding: 0, 6px;
-            }
+            
