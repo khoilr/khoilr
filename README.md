@@ -92,7 +92,7 @@ I also **watch a little anime** (I'm not a really big fan of anime), those are:
 - *Demons Slayer*
 - *Attack on Titan*
 
-Aside from Facebook and Tiktok, **exploring GitHub repositories** to learn and contribute to the development of your own projects is really an excellent option.
+Aside from Facebook and Tiktok, **exploring GitHub repositories** to learn and contribute to the development of my own projects is really an excellent option.
 
 ![Starred](images/actions/starred.svg)
 
