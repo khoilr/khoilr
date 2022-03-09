@@ -28,17 +28,13 @@ My resumes are available [here](https://drive.google.com/drive/folders/15ClLE11W
 
 My very first certificate is from **Google Analytics - Introduction to Data Studio**. I have got this certificate in March 2022.
 
-During that month, I obtained another credential from **DataCamp**, this time for **Data Science for Everyone**.
+During that month, I obtained two more credential from **DataCamp** and **LinkedIn**.
 
-| Name of Certificate                                                                                                                                     | Date of Obtained | Issuing Organization |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------------------- |
-| [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/5MebS9poTdyDvK8_tJmgEQ)                                        | 4th March 2022   | Google Analytics     |
-| [Data Science for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/9f3f0077cb749bfe841b0e48b85e91d14e391e8e?share=true)            | 9th March 2022   | DataCamp             |
-| [Critical Think](https://www.linkedin.com/learning/certificates/1865c424ce1c535765bd3a78578c77f93a72a19bd1f4d27f3178fc1f4a5f80a8?trk=share_certificate) | 9th March 2022   | LinkedIn             |
-
-<img width='32%' align='top' src='images/certificates/analytics.google.com_analytics_academy_certificate_5MebS9poTdyDvK8_tJmgEQ.png' alt='Introduction to Data Studio'>
-<img width='32%' align='top' src='images/certificates/datacamp_certificate_data-science-for-everyone.png' alt='Data Science for Everyone'>
-<img width='32%' align='top' src='images/certificates/CertificateOfCompletion_Critical Thinking.png' alt='Critical Thinking'>
+| Name                                                                                                                                                    | Date of Obtained | Issuing Organization                              | Illustration                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/5MebS9poTdyDvK8_tJmgEQ)                                        | 4th March 2022   | [Google Analytics](https://analytics.google.com/) | <img width='320px' src='images/certificates/analytics.google.com_analytics_academy_certificate_5MebS9poTdyDvK8_tJmgEQ.png' alt='Introduction to Data Studio'> |
+| [Data Science for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/9f3f0077cb749bfe841b0e48b85e91d14e391e8e?share=true)            | 9th March 2022   | [DataCamp](https://app.datacamp.com/)             | <img width='320px' src='images/certificates/datacamp_certificate_data-science-for-everyone.png' alt='Data Science for Everyone'>                              |
+| [Critical Think](https://www.linkedin.com/learning/certificates/1865c424ce1c535765bd3a78578c77f93a72a19bd1f4d27f3178fc1f4a5f80a8?trk=share_certificate) | 9th March 2022   | [LinkedIn](https://www.linkedin.com/)             | <img width='320px' src='images/certificates/CertificateOfCompletion_CriticalThinking.png' alt='Critical Thinking'>                                            |
 
 ## 🤓 I've learned these technologies since my first line of code
 
