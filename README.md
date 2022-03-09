@@ -36,9 +36,11 @@ During that month, I obtained another credential from **DataCamp**, this time fo
 | [Data Science for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/9f3f0077cb749bfe841b0e48b85e91d14e391e8e?share=true)            | 9th March 2022   | DataCamp             |
 | [Critical Think](https://www.linkedin.com/learning/certificates/1865c424ce1c535765bd3a78578c77f93a72a19bd1f4d27f3178fc1f4a5f80a8?trk=share_certificate) | 9th March 2022   | LinkedIn             |
 
-<img width='32%' align='top' src='images/certificates/analytics.google.com_analytics_academy_certificate_5MebS9poTdyDvK8_tJmgEQ.png' alt='Introduction to Data Studio'>
-<img width='32%' align='top' src='images/certificates/datacamp_certificate_data-science-for-everyone.png' alt='Data Science for Everyone'>
-<img width='32%' align='top' src='images/certificates/CertificateOfCompletion_Critical Thinking.png' alt='Critical Thinking'>
+<p>
+    <img width='32%' align='top' src='images/certificates/analytics.google.com_analytics_academy_certificate_5MebS9poTdyDvK8_tJmgEQ.png' alt='Introduction to Data Studio'>
+    <img width='32%' align='top' src='images/certificates/datacamp_certificate_data-science-for-everyone.png' alt='Data Science for Everyone'>
+    <img width='32%' align='top' src='images/certificates/CertificateOfCompletion_Critical Thinking.png' alt='Critical Thinking'>
+</p>
 
 ## 🤓 I've learned these technologies since my first line of code
 
