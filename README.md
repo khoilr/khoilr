@@ -1,29 +1,28 @@
-# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=%2ADoing%20%27tr%C3%B2%20con%20b%C3%B2%27%20to%20welcome%2A&fontSize=42&animation=fadeIn&fontAlignY=53&width=200)
+# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=%2ADoing%20%27tr%C3%B2%20con%20b%C3%B2%27%20to%20greeting%2A&fontSize=42&animation=fadeIn&fontAlignY=53&width=200)
 
-<p><img src="https://readme-typing-svg.herokuapp.com?color=%23f6b00f&amp;duration=2000&amp;multiline=true&amp;height=88&amp;size=16&&amp;width=320&amp;lines=Hello%2C+World%21;I&#39;m+Minh+Kh%C3%B4i.;I&#39;m+on+the+way+to+become...;a+Data+Engineer." alt="Typing SVG"> <img align='right' height='88px' src="images/my-octocat.svg" alt="Octocat"></p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23f6b00f&duration=2000&multiline=true&height=88&size=16&&width=320&lines=Hello%2C+World%21;I'm+Minh+Kh%C3%B4i.;I'm+on+the+way+to+become...;a+Data+Engineer.)
 
 ## 📡 Feel free to contact me
 
 You can get in touch with me in either of the following ways:
 
-<div align="center">
-
-[![Gmail Badge](https://img.shields.io/badge/lcngmnhkhoi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcngmnhkhoi@gmail.com)
-[![Phone Badge](https://img.shields.io/badge/0372300853-323330?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAABOElEQVRIie3Vvy5DYRgH4EODRBcSEtyCUQejiMRVGBgsYjOLhcUNkF6AhJgJk0EMKgaJhdoYiIjEYGkeQ89A+51G03MOQ3/jlzd5vj/53jeKuvnrYAn3qGA0L3TLz5TzQOc1p4aprOHTAAzn6MkSfk+AYSFL+LUF/IhiGk5vYO2uRf1EFEWTWcGHLepvoyi6TgNuCsbxkXDVs5mg3/CNAFrJFI3hIh4a4GcM54GX8NmAn2EgD3w1cOV7smwk3/DdAL6dB1zAQQDfQaGhtg/TGEwL78dRAD/GUFwzg5t4/QnLCPWJtvEiTgL4C64C69QHS+dTLT75fgKSlBrKGOkUL8Tv224uOz55vIEVzf+8VaqpwDFeQvWX8GJqcIwXsS55sMBmqmjDBsawhgv1vv6m/t3mMkO7+df5AuZc43McFtgEAAAAAElFTkSuQmCC&logoColor=white)](tel:+84372300853)  
-[![Telegram Badge](https://img.shields.io/badge/khoilr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khoilr)
-[![Facebook Badge](https://img.shields.io/badge/L%C3%AA%20C%C3%B4ng%20Minh%20Kh%C3%B4i-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khoilr)
-[![LinkedIn Badge](https://img.shields.io/badge/khoilr-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoilr/)
-
-</div>
-
-My resumes are available [here](https://drive.google.com/drive/folders/15ClLE11WMxZeqjlt8Q5hPzH6ZznrRs21?usp=sharing).
+<p align='center'>
+<a href="mailto:lcngmnhkhoi@gmail.com"><img src="https://img.shields.io/badge/lcngmnhkhoi@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge"></a>
+<a href="tel:+84372300853"><img src="https://img.shields.io/badge/0372300853-323330?style=for-the-badge&amp;logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAABOElEQVRIie3Vvy5DYRgH4EODRBcSEtyCUQejiMRVGBgsYjOLhcUNkF6AhJgJk0EMKgaJhdoYiIjEYGkeQ89A+51G03MOQ3/jlzd5vj/53jeKuvnrYAn3qGA0L3TLz5TzQOc1p4aprOHTAAzn6MkSfk+AYSFL+LUF/IhiGk5vYO2uRf1EFEWTWcGHLepvoyi6TgNuCsbxkXDVs5mg3/CNAFrJFI3hIh4a4GcM54GX8NmAn2EgD3w1cOV7smwk3/DdAL6dB1zAQQDfQaGhtg/TGEwL78dRAD/GUFwzg5t4/QnLCPWJtvEiTgL4C64C69QHS+dTLT75fgKSlBrKGOkUL8Tv224uOz55vIEVzf+8VaqpwDFeQvWX8GJqcIwXsS55sMBmqmjDBsawhgv1vv6m/t3mMkO7+df5AuZc43McFtgEAAAAAElFTkSuQmCC&amp;logoColor=white" alt="Phone Badge"></a><br><a href="https://t.me/khoilr"><img src="https://img.shields.io/badge/khoilr-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram Badge"></a>
+<a href="https://www.facebook.com/khoilr"><img src="https://img.shields.io/badge/L%C3%AA%20C%C3%B4ng%20Minh%20Kh%C3%B4i-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook Badge"></a>
+<a href="https://www.linkedin.com/in/khoilr/"><img src="https://img.shields.io/badge/khoilr-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 ## 👨‍💻 My career path
+
+<img height='120' align='right' src="images/my-octocat.svg" alt="Octocat">
 
 I am now an undergraduate student at [Ton Duc Thang University](<https://www.tdtu.edu.vn/en>), where I am majoring in **Software Engineering**.
 
 In the future, I hope to work as a **data engineer**. Furthermore, I aspire to be a **data scientist**.
 I am really interested in data science and am continuously searching for new methods to improve my abilities.
+
+My resumes are available [here](https://drive.google.com/drive/folders/15ClLE11WMxZeqjlt8Q5hPzH6ZznrRs21?usp=sharing).
 
 ## 🏅 Certificates I have archived
 
