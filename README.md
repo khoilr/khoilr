@@ -76,7 +76,7 @@ The top five projects that I am most enthusiastic about are as follows:
 
 In my leisure time, I frequently **spend it on social media platforms** such as Facebook or Tiktok (I intend to become a Tiktok content creator 😆).
 
-**Watching movies** 🎬 is one of my hobbies. Some of my favourite films include:
+**Watching movies** is one of my hobbies. Some of my favourite films include:
 
 - *The Walking Dead*
 - *Stranger Things*
