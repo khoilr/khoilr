@@ -7,10 +7,10 @@
 You can get in touch with me in either of the following ways:
 
 <p align='center'>
-<a href="mailto:lcngmnhkhoi@gmail.com"><img src="https://img.shields.io/badge/lcngmnhkhoi@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge"></a>
-<a href="tel:+84372300853"><img src="https://img.shields.io/badge/0372300853-323330?style=for-the-badge&amp;logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAABOElEQVRIie3Vvy5DYRgH4EODRBcSEtyCUQejiMRVGBgsYjOLhcUNkF6AhJgJk0EMKgaJhdoYiIjEYGkeQ89A+51G03MOQ3/jlzd5vj/53jeKuvnrYAn3qGA0L3TLz5TzQOc1p4aprOHTAAzn6MkSfk+AYSFL+LUF/IhiGk5vYO2uRf1EFEWTWcGHLepvoyi6TgNuCsbxkXDVs5mg3/CNAFrJFI3hIh4a4GcM54GX8NmAn2EgD3w1cOV7smwk3/DdAL6dB1zAQQDfQaGhtg/TGEwL78dRAD/GUFwzg5t4/QnLCPWJtvEiTgL4C64C69QHS+dTLT75fgKSlBrKGOkUL8Tv224uOz55vIEVzf+8VaqpwDFeQvWX8GJqcIwXsS55sMBmqmjDBsawhgv1vv6m/t3mMkO7+df5AuZc43McFtgEAAAAAElFTkSuQmCC&amp;logoColor=white" alt="Phone Badge"></a><br><a href="https://t.me/khoilr"><img src="https://img.shields.io/badge/khoilr-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram Badge"></a>
-<a href="https://www.facebook.com/khoilr"><img src="https://img.shields.io/badge/L%C3%AA%20C%C3%B4ng%20Minh%20Kh%C3%B4i-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook Badge"></a>
-<a href="https://www.linkedin.com/in/khoilr/"><img src="https://img.shields.io/badge/khoilr-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge"></a>
+    <a href="mailto:lcngmnhkhoi@gmail.com"><img src="https://img.shields.io/badge/lcngmnhkhoi@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge"></a>
+    <a href="tel:+84372300853"><img src="https://img.shields.io/badge/0372300853-323330?style=for-the-badge&amp;logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAABOElEQVRIie3Vvy5DYRgH4EODRBcSEtyCUQejiMRVGBgsYjOLhcUNkF6AhJgJk0EMKgaJhdoYiIjEYGkeQ89A+51G03MOQ3/jlzd5vj/53jeKuvnrYAn3qGA0L3TLz5TzQOc1p4aprOHTAAzn6MkSfk+AYSFL+LUF/IhiGk5vYO2uRf1EFEWTWcGHLepvoyi6TgNuCsbxkXDVs5mg3/CNAFrJFI3hIh4a4GcM54GX8NmAn2EgD3w1cOV7smwk3/DdAL6dB1zAQQDfQaGhtg/TGEwL78dRAD/GUFwzg5t4/QnLCPWJtvEiTgL4C64C69QHS+dTLT75fgKSlBrKGOkUL8Tv224uOz55vIEVzf+8VaqpwDFeQvWX8GJqcIwXsS55sMBmqmjDBsawhgv1vv6m/t3mMkO7+df5AuZc43McFtgEAAAAAElFTkSuQmCC&amp;logoColor=white" alt="Phone Badge"></a><br><a href="https://t.me/khoilr"><img src="https://img.shields.io/badge/khoilr-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram Badge"></a>
+    <a href="https://www.facebook.com/khoilr"><img src="https://img.shields.io/badge/L%C3%AA%20C%C3%B4ng%20Minh%20Kh%C3%B4i-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook Badge"></a>
+    <a href="https://www.linkedin.com/in/khoilr/"><img src="https://img.shields.io/badge/khoilr-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 ## 👨‍💻 My career path
@@ -28,40 +28,75 @@ My resumes are available [here](https://drive.google.com/drive/folders/15ClLE11W
 
 My very first certificate is from **Google Analytics - Introduction to Data Studio**. I have got this certificate in March 2022.
 
-[![Introduction to Data Studio](images/certificates/analytics.google.com_analytics_academy_certificate_5MebS9poTdyDvK8_tJmgEQ.png)](https://analytics.google.com/analytics/academy/certificate/5MebS9poTdyDvK8_tJmgEQ)
+During that month, I obtained another credential from **DataCamp**, this time for **Data Science for Everyone**.
+
+| Name of Certificate                                                                                                                                     | Date of Obtained | Issuing Organization |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------------------- |
+| [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/5MebS9poTdyDvK8_tJmgEQ)                                        | 4th March 2022   | Google Analytics     |
+| [Data Science for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/9f3f0077cb749bfe841b0e48b85e91d14e391e8e?share=true)            | 9th March 2022   | DataCamp             |
+| [Critical Think](https://www.linkedin.com/learning/certificates/1865c424ce1c535765bd3a78578c77f93a72a19bd1f4d27f3178fc1f4a5f80a8?trk=share_certificate) | 9th March 2022   | LinkedIn             |
+
+<img width='32%' align='top' src='images/certificates/analytics.google.com_analytics_academy_certificate_5MebS9poTdyDvK8_tJmgEQ.png' alt='Introduction to Data Studio'>
+<img width='32%' align='top' src='images/certificates/datacamp_certificate_data-science-for-everyone.png' alt='Data Science for Everyone'>
+<img width='32%' align='top' src='images/certificates/CertificateOfCompletion_Critical Thinking.png' alt='Critical Thinking'>
 
 ## 🤓 I've learned these technologies since my first line of code
 
 **Python** and **SQL** are two languages that I am familiar with, along with various ***Python packages*** I can implement. I also know how to write code in *Java*, *HTML*, *CSS*, *Javascript*, and *PHP*.
 
 <table>
-<thead>
-<tr>
-<th style="text-align:center" colspan=2>Things that I've internalized</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td >Languages in which I can code</td>
-<td ><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"></td>
-</tr>
-<tr>
-<td >SQL expertise is incredibly important for a data engineer</td>
-<td ><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer"></td>
-</tr>
-<tr>
-<td >Machine Learning/Deep Learning libraries I have experience with</td>
-<td ><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly"></td>
-</tr>
-<tr>
-<td >Some additional libraries I might be able to utilize</td>
-<td ><img src="https://img.shields.io/badge/selenium-%43B02A?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" alt="Selenium"> <img src="https://img.shields.io/badge/spacy-09a4d7?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJFYmVuZV8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAzMDguNSA1OTUuMyAyMTMiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAzMDguNSA1OTUuMyAyMTMiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNzMuNywzOTUuMmMtMTMuNS0xLjYtMTQuNS0xOS43LTMxLjgtMTguMWMtOC40LDAtMTYuMiwzLjUtMTYuMiwxMS4yYzAsMTEuNiwxNy45LDEyLjcsMjguNywxNS42ICBjMTguNCw1LjYsMzYuMiw5LjQsMzYuMiwyOS40YzAsMjUuNC0xOS45LDM0LjItNDYuMiwzNC4yYy0yMiwwLTQ0LjMtNy44LTQ0LjMtMjhjMC01LjYsNS40LTEwLDEwLjYtMTBjNi42LDAsOC45LDIuOCwxMS4yLDcuNCAgYzUuMSw5LDEwLjgsMTMuOCwyNSwxMy44YzksMCwxOC4yLTMuNCwxOC4yLTExLjJjMC0xMS4xLTExLjMtMTMuNS0yMy0xNi4yYy0yMC43LTUuOC0zOC41LTguOC00MC42LTMxLjggIGMtMi4yLTM5LjIsNzkuNS00MC43LDg0LjItNi4zQzg1LjYsMzkxLjQsNzkuOCwzOTUuMiw3My43LDM5NS4yeiBNMTcwLjksMzYwLjhjMjguNywwLDQ1LDI0LDQ1LDUzLjZjMCwyOS43LTE1LjgsNTMuNi00NSw1My42ICBjLTE2LjIsMC0yNi4zLTYuOS0zMy42LTE3LjV2MzkuMmMwLDExLjgtMy44LDE3LjUtMTIuNCwxNy41Yy0xMC41LDAtMTIuNC02LjctMTIuNC0xNy41di0xMTRjMC05LjMsMy45LTE1LDEyLjQtMTUgIGM4LDAsMTIuNCw2LjMsMTIuNCwxNXYzLjJDMTQ1LjQsMzY4LjcsMTU0LjcsMzYwLjgsMTcwLjksMzYwLjh6IE0xNjQuMSw0NDcuNmMxNi44LDAsMjQuMy0xNS41LDI0LjMtMzMuNiAgYzAtMTcuNy03LjYtMzMuNi0yNC4zLTMzLjZjLTE3LjUsMC0yNS42LDE0LjQtMjUuNiwzMy42QzEzOC41LDQzMi43LDE0Ni43LDQ0Ny42LDE2NC4xLDQ0Ny42eiBNMjM1LjQsMzg4LjhjMC0yMC42LDIzLjctMjgsNDYuNy0yOCAgYzMyLjMsMCw0NS42LDkuNCw0NS42LDQwLjZ2MzBjMCw3LjEsNC40LDIxLjMsNC40LDI1LjZjMCw2LjUtNiwxMC42LTEyLjQsMTAuNmMtNy4xLDAtMTIuNC04LjQtMTYuMi0xNC40ICBjLTEwLjUsOC40LTIxLjYsMTQuNC0zOC42LDE0LjRjLTE4LjgsMC0zMy42LTExLjEtMzMuNi0yOS40YzAtMTYuMiwxMS42LTI1LjUsMjUuNi0yOC43YzAsMC4xLDQ1LTEwLjYsNDUtMTAuNyAgYzAtMTMuOC00LjktMTkuOS0xOS40LTE5LjljLTEyLjgsMC0xOS4zLDMuNS0yNC4zLDExLjJjLTQsNS44LTMuNSw5LjMtMTEuMiw5LjNDMjQwLjgsMzk5LjMsMjM1LjQsMzk1LjEsMjM1LjQsMzg4Ljh6IE0yNzMuOCw0NTAuNyAgYzE5LjcsMCwyOC0xMC40LDI4LTMxLjF2LTQuNGMtNS4zLDEuOC0yNi43LDcuMS0zMi41LDhjLTYuMiwxLjItMTIuNCw1LjgtMTIuNCwxMy4xQzI1Ny4xLDQ0NC4zLDI2NS4zLDQ1MC43LDI3My44LDQ1MC43eiAgIE00MTguNSwzMjEuN2MyNy44LDAsNTcuOSwxNi42LDU3LjksNDNjMCw2LjgtNS4xLDEyLjQtMTEuOCwxMi40Yy05LjEsMC0xMC40LTQuOS0xNC40LTExLjhjLTYuNy0xMi4zLTE0LjYtMjAuNS0zMS44LTIwLjUgIGMtMjYuNi0wLjItMzguNSwyMi42LTM4LjUsNTFjMCwyOC42LDkuOSw0OS4yLDM3LjQsNDkuMmMxOC4zLDAsMjguNC0xMC42LDMzLjYtMjQuM2MyLjEtNi4zLDUuOS0xMi40LDEzLjgtMTIuNCAgYzYuMiwwLDEyLjQsNi4zLDEyLjQsMTMuMWMwLDI4LTI4LjYsNDcuNC01OCw0Ny40Yy0zMi4yLDAtNTAuNC0xMy42LTYwLjQtMzYuMmMtNC45LTEwLjgtOC0yMi04LTM3LjQgIEMzNTAuNSwzNTEuOCwzNzUuOCwzMjEuNyw0MTguNSwzMjEuN0w0MTguNSwzMjEuN3ogTTU3Ny41LDM2MC44YzcuMSwwLDExLjIsNC42LDExLjIsMTEuOGMwLDIuOS0yLjMsOC43LTMuMiwxMS44bC0zNC4yLDg5LjkgIGMtNy42LDE5LjUtMTMuMywzMy0zOS4yLDMzYy0xMi4zLDAtMjMtMS4xLTIzLTExLjhjMC02LjIsNC43LTkuMywxMS4yLTkuM2MxLjIsMCwzLjIsMC42LDQuNCwwLjZjMS45LDAsMy4yLDAuNiw0LjQsMC42ICBjMTMsMCwxNC44LTEzLjMsMTkuNC0yMi41bC0zMy04MS43Yy0xLjktNC40LTMuMi03LjQtMy4yLTEwYzAtNy4yLDUuNi0xMi40LDEzLjEtMTIuNGM4LjQsMCwxMS43LDYuNiwxMy44LDEzLjhsMjEuOCw2NC44ICBsMjEuOC01OS45QzU2Ni4xLDM3MC4yLDU2Ni40LDM2MC44LDU3Ny41LDM2MC44eiIvPgo8L3N2Zz4=&amp;logoColor=white" alt="SpaCy"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"></td>
-</tr>
-<tr>
-<td >I can work on these operating systems</td>
-<td ><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&amp;logo=macos&amp;logoColor=F0F0F0" alt="Mac OS"></td>
-</tr>
-</tbody>
+    <thead>
+        <tr>
+            <th style="text-align:center" colspan=2>Things that I've internalized</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Languages in which I can code</td>
+            <td>
+                <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
+                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
+                <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
+                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
+                <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
+                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+                <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
+            </td>
+        </tr>
+        <tr>
+            <td>SQL expertise is incredibly important for a data engineer</td>
+            <td>
+                <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+                <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer">
+            </td>
+        </tr>
+        <tr>
+            <td>Machine Learning/Deep Learning libraries I have experience with</td>
+            <td>
+                <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+                <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
+                <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn">
+                <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow">
+                <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly">
+            </td>
+        </tr>
+        <tr>
+            <td>Some additional libraries I might be able to utilize</td>
+            <td>
+                <img src="https://img.shields.io/badge/selenium-%43B02A?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" alt="Selenium">
+                <img src="https://img.shields.io/badge/spacy-09a4d7?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJFYmVuZV8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAzMDguNSA1OTUuMyAyMTMiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAzMDguNSA1OTUuMyAyMTMiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNzMuNywzOTUuMmMtMTMuNS0xLjYtMTQuNS0xOS43LTMxLjgtMTguMWMtOC40LDAtMTYuMiwzLjUtMTYuMiwxMS4yYzAsMTEuNiwxNy45LDEyLjcsMjguNywxNS42ICBjMTguNCw1LjYsMzYuMiw5LjQsMzYuMiwyOS40YzAsMjUuNC0xOS45LDM0LjItNDYuMiwzNC4yYy0yMiwwLTQ0LjMtNy44LTQ0LjMtMjhjMC01LjYsNS40LTEwLDEwLjYtMTBjNi42LDAsOC45LDIuOCwxMS4yLDcuNCAgYzUuMSw5LDEwLjgsMTMuOCwyNSwxMy44YzksMCwxOC4yLTMuNCwxOC4yLTExLjJjMC0xMS4xLTExLjMtMTMuNS0yMy0xNi4yYy0yMC43LTUuOC0zOC41LTguOC00MC42LTMxLjggIGMtMi4yLTM5LjIsNzkuNS00MC43LDg0LjItNi4zQzg1LjYsMzkxLjQsNzkuOCwzOTUuMiw3My43LDM5NS4yeiBNMTcwLjksMzYwLjhjMjguNywwLDQ1LDI0LDQ1LDUzLjZjMCwyOS43LTE1LjgsNTMuNi00NSw1My42ICBjLTE2LjIsMC0yNi4zLTYuOS0zMy42LTE3LjV2MzkuMmMwLDExLjgtMy44LDE3LjUtMTIuNCwxNy41Yy0xMC41LDAtMTIuNC02LjctMTIuNC0xNy41di0xMTRjMC05LjMsMy45LTE1LDEyLjQtMTUgIGM4LDAsMTIuNCw2LjMsMTIuNCwxNXYzLjJDMTQ1LjQsMzY4LjcsMTU0LjcsMzYwLjgsMTcwLjksMzYwLjh6IE0xNjQuMSw0NDcuNmMxNi44LDAsMjQuMy0xNS41LDI0LjMtMzMuNiAgYzAtMTcuNy03LjYtMzMuNi0yNC4zLTMzLjZjLTE3LjUsMC0yNS42LDE0LjQtMjUuNiwzMy42QzEzOC41LDQzMi43LDE0Ni43LDQ0Ny42LDE2NC4xLDQ0Ny42eiBNMjM1LjQsMzg4LjhjMC0yMC42LDIzLjctMjgsNDYuNy0yOCAgYzMyLjMsMCw0NS42LDkuNCw0NS42LDQwLjZ2MzBjMCw3LjEsNC40LDIxLjMsNC40LDI1LjZjMCw2LjUtNiwxMC42LTEyLjQsMTAuNmMtNy4xLDAtMTIuNC04LjQtMTYuMi0xNC40ICBjLTEwLjUsOC40LTIxLjYsMTQuNC0zOC42LDE0LjRjLTE4LjgsMC0zMy42LTExLjEtMzMuNi0yOS40YzAtMTYuMiwxMS42LTI1LjUsMjUuNi0yOC43YzAsMC4xLDQ1LTEwLjYsNDUtMTAuNyAgYzAtMTMuOC00LjktMTkuOS0xOS40LTE5LjljLTEyLjgsMC0xOS4zLDMuNS0yNC4zLDExLjJjLTQsNS44LTMuNSw5LjMtMTEuMiw5LjNDMjQwLjgsMzk5LjMsMjM1LjQsMzk1LjEsMjM1LjQsMzg4Ljh6IE0yNzMuOCw0NTAuNyAgYzE5LjcsMCwyOC0xMC40LDI4LTMxLjF2LTQuNGMtNS4zLDEuOC0yNi43LDcuMS0zMi41LDhjLTYuMiwxLjItMTIuNCw1LjgtMTIuNCwxMy4xQzI1Ny4xLDQ0NC4zLDI2NS4zLDQ1MC43LDI3My44LDQ1MC43eiAgIE00MTguNSwzMjEuN2MyNy44LDAsNTcuOSwxNi42LDU3LjksNDNjMCw2LjgtNS4xLDEyLjQtMTEuOCwxMi40Yy05LjEsMC0xMC40LTQuOS0xNC40LTExLjhjLTYuNy0xMi4zLTE0LjYtMjAuNS0zMS44LTIwLjUgIGMtMjYuNi0wLjItMzguNSwyMi42LTM4LjUsNTFjMCwyOC42LDkuOSw0OS4yLDM3LjQsNDkuMmMxOC4zLDAsMjguNC0xMC42LDMzLjYtMjQuM2MyLjEtNi4zLDUuOS0xMi40LDEzLjgtMTIuNCAgYzYuMiwwLDEyLjQsNi4zLDEyLjQsMTMuMWMwLDI4LTI4LjYsNDcuNC01OCw0Ny40Yy0zMi4yLDAtNTAuNC0xMy42LTYwLjQtMzYuMmMtNC45LTEwLjgtOC0yMi04LTM3LjQgIEMzNTAuNSwzNTEuOCwzNzUuOCwzMjEuNyw0MTguNSwzMjEuN0w0MTguNSwzMjEuN3ogTTU3Ny41LDM2MC44YzcuMSwwLDExLjIsNC42LDExLjIsMTEuOGMwLDIuOS0yLjMsOC43LTMuMiwxMS44bC0zNC4yLDg5LjkgIGMtNy42LDE5LjUtMTMuMywzMy0zOS4yLDMzYy0xMi4zLDAtMjMtMS4xLTIzLTExLjhjMC02LjIsNC43LTkuMywxMS4yLTkuM2MxLjIsMCwzLjIsMC42LDQuNCwwLjZjMS45LDAsMy4yLDAuNiw0LjQsMC42ICBjMTMsMCwxNC44LTEzLjMsMTkuNC0yMi41bC0zMy04MS43Yy0xLjktNC40LTMuMi03LjQtMy4yLTEwYzAtNy4yLDUuNi0xMi40LDEzLjEtMTIuNGM4LjQsMCwxMS43LDYuNiwxMy44LDEzLjhsMjEuOCw2NC44ICBsMjEuOC01OS45QzU2Ni4xLDM3MC4yLDU2Ni40LDM2MC44LDU3Ny41LDM2MC44eiIvPgo8L3N2Zz4=&amp;logoColor=white" alt="SpaCy">
+                <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV">
+            </td>
+        </tr>
+        <tr>
+            <td>I can work on these operating systems</td>
+            <td>
+                <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows">
+                <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
+                <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&amp;logo=macos&amp;logoColor=F0F0F0" alt="Mac OS">
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 ## 🗂️ My personal projects
