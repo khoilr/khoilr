@@ -23,8 +23,8 @@ jobs:
 
           # Options
           user: khoilr
-          template: TEMPLATE.md
-          base: ""
+          template: markdown
+          filename: hihi.md
           config_timezone: Asia/Saigon
           plugin_activity: yes
           plugin_activity_days: 365
@@ -32,7 +32,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          config_output: markdown-pdf
-          output_action: gist
-          committer_gist: 3ae55324355ed63f7e8a6c8decc08326
-          config_base64: yes
+          config_output: markdown
+#           output_action: gist
+#           committer_gist: 3ae55324355ed63f7e8a6c8decc08326
