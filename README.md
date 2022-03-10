@@ -31,13 +31,13 @@ My very first certificate is from **Google Analytics - Introduction to Data Stud
 The following is a list of all of the certifications that I have earned.
 
 <a href="https://analytics.google.com/analytics/academy/certificate/5MebS9poTdyDvK8_tJmgEQ">
-    <img width='280px' align='top' src='images/certificates/analytics.google.com_analytics_academy_certificate_5MebS9poTdyDvK8_tJmgEQ.png' alt='Introduction to Data Studio'>
+    <img width='32%' align='top' src='images/certificates/analytics.google.com_analytics_academy_certificate_5MebS9poTdyDvK8_tJmgEQ.png' alt='Introduction to Data Studio'>
 </a>
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/9f3f0077cb749bfe841b0e48b85e91d14e391e8e?share=true">
-    <img width='280px' align='top' src='images/certificates/datacamp_certificate_data-science-for-everyone.png' alt='Data Science for Everyone'>
+    <img width='32%' align='top' src='images/certificates/datacamp_certificate_data-science-for-everyone.png' alt='Data Science for Everyone'>
 </a>
 <a href="https://www.linkedin.com/learning/certificates/1865c424ce1c535765bd3a78578c77f93a72a19bd1f4d27f3178fc1f4a5f80a8?trk=share_certificate">
-    <img width='280px' align='top' src='images/certificates/CertificateOfCompletion_CriticalThinking.png' alt='Critical Thinking'>
+    <img width='32%' align='top' src='images/certificates/CertificateOfCompletion_CriticalThinking.png' alt='Critical Thinking'>
 </a>
 
 ## 🤓 I've learned these technologies since my first line of code
@@ -47,7 +47,7 @@ The following is a list of all of the certifications that I have earned.
 <table>
     <thead>
         <tr>
-            <th style="text-align:center" colspan=2>Things that I've internalized</th>
+            <th colspan=2>Things that I've internalized</th>
         </tr>
     </thead>
     <tbody>
@@ -111,7 +111,7 @@ The top five projects that I am most enthusiastic about are as follows:
 
 In my leisure time, I frequently **spend it on social media platforms** such as Facebook or Tiktok (I intend to become a Tiktok content creator 😆).
 
-**Watching movies** is one of my hobbies. Some of my favorite films include:
+**Watching movies** is one of my hobbies. Some of my **favorite** films include:
 
 - *The Walking Dead*
 - *Stranger Things*
