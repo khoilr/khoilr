@@ -26,7 +26,7 @@ jobs:
           template: markdown
           markdown: >-
             https://raw.githubusercontent.com/khoilr/khoilr/master/templates/acitvity.md
-          filename: hihi.md
+#           filename: hihi.md
           config_timezone: Asia/Saigon
           plugin_activity: yes
           plugin_activity_days: 365
@@ -35,5 +35,5 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           config_output: markdown
-#           output_action: gist
-#           committer_gist: 3ae55324355ed63f7e8a6c8decc08326
+          output_action: gist
+          committer_gist: 3ae55324355ed63f7e8a6c8decc08326
