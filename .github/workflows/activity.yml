@@ -25,7 +25,7 @@ jobs:
           user: khoilr
           template: markdown
           markdown: >-
-            https://raw.githubusercontent.com/khoilr/khoilr/master/source/templates/acitvity.md
+            https://raw.githubusercontent.com/khoilr/khoilr/master/templates/acitvity.md
           filename: hihi.md
           config_timezone: Asia/Saigon
           plugin_activity: yes
