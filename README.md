@@ -146,6 +146,12 @@ I was encouraged from a young age to always do well in school, therefore I have 
 
 And finally, **cats, lots of cats.**
 
+## 🏆 My GitHub trophies
+
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=khoilr&amp;column=4&amp;theme=radical&amp;margin-w=16&amp;margin-h=16&amp;no-bg=false&amp;no-frame=true" alt="My trophies">
+</p>
+
 ## 📊 Get more insight into my coding activities
 
 <p>
