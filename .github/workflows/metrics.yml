@@ -55,6 +55,7 @@ jobs:
             svg > foreignObject > div.items-wrapper > div > section:nth-child(2) {
               display: none;
             }
+            
   wakatime:
     runs-on: ubuntu-latest
     steps:
@@ -153,6 +154,7 @@ jobs:
             document.querySelectorAll('[fill="#40c463"]')?.forEach(e => e.setAttribute("fill", "#fa729b"))
             document.querySelectorAll('[fill="#30a14e"]')?.forEach(e => e.setAttribute("fill", "#f84079"))
             document.querySelectorAll('[fill="#216e39"]')?.forEach(e => e.setAttribute("fill", "#f60f56"))
+  
   recent-starred:
     runs-on: ubuntu-latest
     steps:
