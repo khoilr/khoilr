@@ -71,7 +71,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects-graphs, languages-graphs
+          plugin_wakatime_sections: time, languages-graphs
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: khoilr
           filename: "images/actions/wakatime.svg"
