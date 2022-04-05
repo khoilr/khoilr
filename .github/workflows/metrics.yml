@@ -52,7 +52,7 @@ jobs:
               border-radius: 6px;
               padding: 6px;
             }
-            svg > foreignObject > div.items-wrapper > div > section:nth-child(2) {
+            svg > foreignObject > div.items-wrapper > section:nth-child(2) > div.row.largeable > section:nth-child(2) {
               display: none;
             }
             
