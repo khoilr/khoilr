@@ -2,6 +2,16 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23f6b00f&duration=2000&multiline=true&height=88&size=16&&width=320&lines=Hello%2C+World%21;I'm+Minh+Kh%C3%B4i.;I'm+on+the+way+to+become...;a+Data+Engineer.)
 
+- **Lê Công Minh Khôi**
+  - [📡 Feel free to contact me](#📡-feel-free-to-contact-me)
+  - [👨‍💻 My career path](#👨‍💻-my-career-path)
+  - [🏅 Certificates I have archived](#🏅-certificates-i-have-archived)
+  - [🤓 I've learned these technologies since my first line of code](#🤓-ive-learned-these-technologies-since-my-first-line-of-code)
+  - [🗂️ My personal projects](#️🗂️-my-personal-projects)
+  - [😻 What I typically do in my spare time](#😻-what-i-typically-do-in-my-spare-time)
+  - [🏆 My GitHub trophies](#🏆-my-github-trophies)
+  - [📊 Get more insight into my coding activities](#📊-get-more-insight-into-my-coding-activities)
+
 ## 📡 Feel free to contact me
 
 You can get in touch with me in either of the following ways:
