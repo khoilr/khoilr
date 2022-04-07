@@ -17,10 +17,9 @@ You can get in touch with me in either of the following ways:
 
 <img height='120' align='right' src="images/my-octocat.svg" alt="Octocat">
 
-I am now an undergraduate student at [Ton Duc Thang University](<https://www.tdtu.edu.vn/en>), where I am majoring in **Software Engineering**.
+I am presently employed as a **Fresher Developer** at [1C Vietnam](<https://1c.com.vn/en>) while also pursuing an undergraduate degree in **Software Engineering** at [Ton Duc Thang University](<https://www.tdtu.edu.vn/en>).
 
-In the future, I hope to work as a **data engineer**. Furthermore, I aspire to be a **data scientist**.
-I am really interested in data science and am continuously searching for new methods to improve my abilities.
+In the future, I hope to work as a **Data Engineer**. Furthermore, I aspire to be a **Data Scientist**. I am really interested in data science and am continuously searching for new methods to improve my abilities.
 
 My resumes are available [here](https://drive.google.com/drive/folders/15ClLE11WMxZeqjlt8Q5hPzH6ZznrRs21?usp=sharing).
 
