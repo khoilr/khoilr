@@ -153,6 +153,7 @@ I also **watch a little anime** (I'm not a really big fan of anime), those are:
 - *Naruto*
 - *Demons Slayer*
 - *Attack on Titan*
+- *Jujutsu Kaisen*
 
 Aside from Facebook and Tiktok, **exploring GitHub repositories** to learn and contribute to the development of my own projects is really an excellent option.
 
