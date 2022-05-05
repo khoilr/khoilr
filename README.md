@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-- [📡 Feel free to contact me](-feel-free-to-contact-me)
+- [📡 Feel free to contact me](#-feel-free-to-contact-me)
 - [👨‍💻 My career path](#-my-career-path)
 - [🏅 Certificates I have archived](#-certificates-i-have-archived)
 - [🤓 I've learned these technologies since my first line of code](#-ive-learned-these-technologies-since-my-first-line-of-code)
@@ -110,9 +110,10 @@ I've worked on *Machine Learning*, *Data Crawling*, *Natural Language Processing
 
 The top five projects that I am most enthusiastic about are as follows:
 
-<a href='https://github.com/khoilr/Minh-Y'>
+[~~Minh-Y is moved to GitLab~~](https://gitlab.com/khoilr/minh-y)
+<!-- <a href='https://github.com/khoilr/Minh-Y'>
     <img width='32%' src='https://github-readme-stats.vercel.app/api/pin/?username=khoilr&repo=minh-y&title_color=F9C859&text_color=10B1FE&icon_color=f9598a&bg_color=22272e&hide_border=False'>
-</a>
+</a> -->
 <a href="https://github.com/khoilr/Classroom-Clone">
     <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=khoilr&amp;repo=classroom-clone&amp;title_color=F9C859&amp;text_color=10B1FE&amp;icon_color=f9598a&amp;bg_color=22272e&amp;hide_border=False" alt="Classroom Clone">
 </a>
@@ -133,7 +134,7 @@ The top five projects that I am most enthusiastic about are as follows:
 
 In my leisure time, I frequently **spend it on social media platforms** such as Facebook or Tiktok (I intend to become a Tiktok content creator 😆).
 
-**Watching movies** is one of my hobbies. Some of my **favorite** films include:
+**Watching movies** is one of my hobbies. Some of my favorite films include:
 
 - *The Walking Dead*
 - *Stranger Things*
