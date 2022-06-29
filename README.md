@@ -94,6 +94,13 @@ The following is a list of all of the certifications that I have earned.
             </td>
         </tr>
         <tr>
+            <td>Deployment platforms </td>
+            <td>
+            <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="Heroku">
+            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+            </td>
+        </tr>
+        <tr>
             <td>Operating systems</td>
             <td>
                 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows">
