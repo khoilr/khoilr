@@ -164,7 +164,7 @@ Aside from Facebook and Tiktok, **exploring GitHub repositories** to learn and c
 
 Nothing surpasses coding and **listening to music** at the same time. Try [my Spotify playlist](https://open.spotify.com/playlist/5uJtaafEanWoz5ObTyE5q2?si=b17ef27abb5d4071) to discover if our musical tastes are similar.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=02wl9d1n6rrhctmhnvc4l5q8w&redirect=true)
 
 I was encouraged from a young age to always do well in school, therefore I have a strong interest in **studying and reading**
 
