@@ -58,6 +58,14 @@ The following is a list of all of the certifications that I have earned.
     <a href="https://www.linkedin.com/learning/certificates/cef7f4aa19abab711dea431cd24a80df0c5e4d02c857f0c179d1e30def4daf48">
         <img width="32%" align="top" src="images/certificates/CertificateOfCompletion_The NonTechnical Skills of Effective Data Scientists.png" alt="SQL: Data Reporting and Analysis">
     </a>
+    <a href="https://www.linkedin.com/learning/certificates/91b9d990494e3b1f4055866329993cbfc0b692fe2d8876ce0301991432ecde9c">
+        <img width="32%" align="top" src="images/certificates/CertificateOfCompletion_Learning Excel Data Analysis.png" alt="Learning Excel: Data Analysis">
+    </a>
+</p>
+<p align="center">
+    <a href="https://www.datacamp.com/statement-of-accomplishment/course/052e98a04349a1ebfbea0bf348d9c0962d46f76f">
+        <img width="32%" align="top" src="images/certificates/datacamp_certificate_ETL-in-Python.png" alt="ETL in Python">
+    </a>
 </p>
 
 ## 🤓 I've learned these technologies since my first line of code
