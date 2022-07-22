@@ -66,6 +66,17 @@ The following is a list of all of the certifications that I have earned.
     <a href="https://www.datacamp.com/statement-of-accomplishment/course/052e98a04349a1ebfbea0bf348d9c0962d46f76f">
         <img width="32%" align="top" src="images/certificates/datacamp_certificate_ETL-in-Python.png" alt="ETL in Python">
     </a>
+    <a href="https://www.datacamp.com/statement-of-accomplishment/course/34fb201e94affc51bd447f14f43b0bc483069009">
+        <img width="32%" align="top" src="images/certificates/IntroductionToPySpark_DataCamp.png" alt="ETL in Python">
+    </a>
+    <a href="https://www.datacamp.com/statement-of-accomplishment/course/347fa32eaaede27e9e3c952086c5e4c4c88ccd6d">
+        <img width="32%" align="top" src="images/certificates/BigDataFundamentalsWithPySpark_DataCamp.png" alt="ETL in Python">
+    </a>
+</p>
+<p align="center">
+    <a href="https://www.datacamp.com/statement-of-accomplishment/course/8bb7596faf35896f45e12b60b8b38b975dfac4fd">
+        <img width="32%" align="top" src="images/certificates/CleaningDataWithPySpark_DataCamp.png" alt="ETL in Python">
+    </a>
 </p>
 
 ## 🤓 I've learned these technologies since my first line of code
