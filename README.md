@@ -67,15 +67,21 @@ The following is a list of all of the certifications that I have earned.
         <img width="32%" align="top" src="images/certificates/datacamp_certificate_ETL-in-Python.png" alt="ETL in Python">
     </a>
     <a href="https://www.datacamp.com/statement-of-accomplishment/course/34fb201e94affc51bd447f14f43b0bc483069009">
-        <img width="32%" align="top" src="images/certificates/IntroductionToPySpark_DataCamp.png" alt="ETL in Python">
+        <img width="32%" align="top" src="images/certificates/IntroductionToPySpark_DataCamp.png" alt="Introduction to PySpark">
     </a>
     <a href="https://www.datacamp.com/statement-of-accomplishment/course/347fa32eaaede27e9e3c952086c5e4c4c88ccd6d">
-        <img width="32%" align="top" src="images/certificates/BigDataFundamentalsWithPySpark_DataCamp.png" alt="ETL in Python">
+        <img width="32%" align="top" src="images/certificates/BigDataFundamentalsWithPySpark_DataCamp.png" alt="Big Data Fundamentals with PySpark">
     </a>
 </p>
 <p align="center">
     <a href="https://www.datacamp.com/statement-of-accomplishment/course/8bb7596faf35896f45e12b60b8b38b975dfac4fd">
-        <img width="32%" align="top" src="images/certificates/CleaningDataWithPySpark_DataCamp.png" alt="ETL in Python">
+        <img width="32%" align="top" src="images/certificates/CleaningDataWithPySpark_DataCamp.png" alt="Cleaning Data with PySpark">
+    </a>
+    <a href="https://www.datacamp.com/statement-of-accomplishment/course/c1fd0de7c8d9ffab292211ce18334a4a6c347da2">
+        <img width="32%" align="top" src="images/certificates/DataCamp_FeatureEngineeringWithPySpark.png" alt="Feature Engineering with PySpark">
+    </a>
+    <a href="https://www.datacamp.com/statement-of-accomplishment/course/3bd490caf934bc4941ef8ef92c928221cdd49b10">
+        <img width="32%" align="top" src="images/certificates/DataCamp_MachineLearningWithPySpark.png" alt="Machine Learning with PySpark">
     </a>
 </p>
 
