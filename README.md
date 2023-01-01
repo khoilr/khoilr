@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23f6b00f&duration=2000&multiline=true&height=88&size=16&&width=320&lines=Hello%2C+World%21;I'm+Minh+Kh%C3%B4i.;I'm+on+the+way+to+become...;a+Data+Engineer.)
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="vi" dir="ltr">Tôi yêu những lần hoang dại như đêm vừa rồi, thêm một chút men để cơn đê mê thêm nồng say. Ngửi mùi hương cuốn hút của đối phương, hai cơ thể hòa quyện trong màn đêm tĩnh mịch.</p>&mdash; Lê Công Minh Khôi (@khoilr) <a href="https://twitter.com/khoilr/status/1607358203028983809?ref_src=twsrc%5Etfw">December 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Table of contents
 
 - [📡 Feel free to contact me](#-feel-free-to-contact-me)
