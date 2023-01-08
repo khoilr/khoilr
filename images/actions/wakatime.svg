@@ -61,27 +61,27 @@ div.items-wrapper {
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Dart</span>
-                                <div class="bar" style="width: 31.639999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 32.168%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">40%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 19.944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 19.048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">24%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 13.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 13.512%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 10.847999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 11.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 3.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.136%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
