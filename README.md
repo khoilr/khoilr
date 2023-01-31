@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23f6b00f&duration=2000&multiline=true&height=88&size=16&&width=320&lines=Hello%2C+World%21;I'm+Minh+Kh%C3%B4i.;I'm+on+the+way+to+become...;a+Data+Engineer.)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=khoilr&layout=wide&show_border=off&show_retweet=off&show_reply=off)](https://github.com/gazf/github-readme-twitter)
-
 ## Table of contents
 
 - [📡 Feel free to contact me](#-feel-free-to-contact-me)
