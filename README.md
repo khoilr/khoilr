@@ -1,6 +1,4 @@
-# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=Hello%2AWorld&fontSize=42&animation=fadeIn&fontAlignY=53&width=200)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23f6b00f&duration=2000&multiline=true&height=88&size=16&&width=320&lines=Hello%2C+World%21;I'm+Minh+Kh%C3%B4i.;I'm+on+the+way+to+become...;a+Data+Engineer.)
+# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=Hello%20World%21%20Welcome%20to%20my%20GitHub%20profile&fontSize=42&animation=fadeIn&fontAlignY=53&width=200)
 
 ## 📡 Feel free to contact me
 
