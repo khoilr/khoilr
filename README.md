@@ -1,10 +1,9 @@
-# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=Hello%20World%21%20Welcome%20to%20my%20GitHub%20profile&fontSize=42&animation=fadeIn&fontAlignY=53&width=200)
+# ![Lê Công Minh Khôi](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=Hello%20World%21%20I%27m%20Khoilr&fontSize=42&animation=fadeIn&fontAlignY=53&width=200)
 
 ## 📡 Feel free to contact me
 
 <p align='center'>
     <a href="mailto:lcngmnhkhoi@gmail.com"><img style="border-radius:16px" src="https://img.shields.io/badge/lcngmnhkhoi@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge"></a>
-    <a href="tel:+84372300853"><img style="border-radius:16px" src="https://img.shields.io/badge/0372300853-323330?style=for-the-badge&amp;logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAABOElEQVRIie3Vvy5DYRgH4EODRBcSEtyCUQejiMRVGBgsYjOLhcUNkF6AhJgJk0EMKgaJhdoYiIjEYGkeQ89A+51G03MOQ3/jlzd5vj/53jeKuvnrYAn3qGA0L3TLz5TzQOc1p4aprOHTAAzn6MkSfk+AYSFL+LUF/IhiGk5vYO2uRf1EFEWTWcGHLepvoyi6TgNuCsbxkXDVs5mg3/CNAFrJFI3hIh4a4GcM54GX8NmAn2EgD3w1cOV7smwk3/DdAL6dB1zAQQDfQaGhtg/TGEwL78dRAD/GUFwzg5t4/QnLCPWJtvEiTgL4C64C69QHS+dTLT75fgKSlBrKGOkUL8Tv224uOz55vIEVzf+8VaqpwDFeQvWX8GJqcIwXsS55sMBmqmjDBsawhgv1vv6m/t3mMkO7+df5AuZc43McFtgEAAAAAElFTkSuQmCC&amp;logoColor=white" alt="Phone Badge"></a><br><a href="https://t.me/khoilr"><img style="border-radius:16px" src="https://img.shields.io/badge/khoilr-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram Badge"></a>
     <a href="https://www.facebook.com/khoilr"><img style="border-radius:16px" src="https://img.shields.io/badge/L%C3%AA%20C%C3%B4ng%20Minh%20Kh%C3%B4i-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook Badge"></a>
     <a href="https://www.linkedin.com/in/khoilr/"><img style="border-radius:16px"  src="https://img.shields.io/badge/khoilr-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge"></a>
 </p>
