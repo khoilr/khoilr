@@ -47,8 +47,8 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section:nth-child(2) &gt; div
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             09
                         </div>
                         <div class="entry">
@@ -57,8 +57,8 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section:nth-child(2) &gt; div
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             11
                         </div>
                         <div class="entry">
@@ -133,17 +133,17 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section:nth-child(2) &gt; div
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
                                 <span class="value">3</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">3</span>
+                                <span class="value">4</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Wed
                             </div>
@@ -169,27 +169,32 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section:nth-child(2) &gt; div
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 35.110937680339%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">44%</span>
+                                <div class="bar" style="width: 37.59111086602884%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">47%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 7.320732732798751%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.345115663514296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">TSX</span>
-                                <div class="bar" style="width: 6.058400980494534%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <span class="name">HTML</span>
+                                <div class="bar" style="width: 2.768204251564697%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.7681273323843495%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.849651217293005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">TSX</span>
+                                <div class="bar" style="width: 0.5593757754556232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.024622284266470274%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.024704292922330364%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
