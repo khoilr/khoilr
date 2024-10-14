@@ -2,10 +2,10 @@
 name: Metrics
 on:
   # Schedule updates (every day)
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{ cron: '0 0 * * *' }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: { branches: ['master', 'main'] }
 jobs:
   coding-habit:
     runs-on: ubuntu-latest
@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: khoilr
           template: classic
-          base: ""
+          base: ''
           config_display: regular
           config_timezone: Asia/Saigon
           plugin_habits: yes
@@ -25,7 +25,7 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_trim: yes
           config_padding: 0, 6px
-          filename: "images/actions/coding-habit.svg"
+          filename: 'images/actions/coding-habit.svg'
           extras_css: |
             h2.field{ 
               font-weight: bold;
@@ -55,7 +55,7 @@ jobs:
             # svg > foreignObject > div.items-wrapper > section:nth-child(2) > div.row.largeable > section:nth-child(2) {
             #   display: none;
             # }
-            
+
   wakatime:
     runs-on: ubuntu-latest
     steps:
@@ -65,17 +65,17 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: khoilr
           template: classic
-          base: ""
+          base: ''
           config_display: regular
           config_timezone: Asia/Saigon
           plugin_wakatime_token: $ {{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, languages-graphs
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: khoilr
-          filename: "images/actions/wakatime.svg"
+          filename: 'images/actions/wakatime.svg'
           extras_css: |
             h2.field{ 
               font-weight: bold;
@@ -102,7 +102,7 @@ jobs:
               border-radius: 6px;
               padding: 6px;
             }
-  
+
   isocalendar:
     runs-on: ubuntu-latest
     steps:
@@ -112,12 +112,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: khoilr
           template: classic
-          base: ""
+          base: ''
           config_display: large
           config_timezone: Asia/Saigon
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          filename: "images/actions/isocalendar.svg"
+          filename: 'images/actions/isocalendar.svg'
           config_padding: 0, 6px
           extras_css: |
             h2.field{ 
@@ -153,4 +153,4 @@ jobs:
             document.querySelectorAll('[fill="#9be9a8"]')?.forEach(e => e.setAttribute("fill", "#fca3be"))
             document.querySelectorAll('[fill="#40c463"]')?.forEach(e => e.setAttribute("fill", "#fa729b"))
             document.querySelectorAll('[fill="#30a14e"]')?.forEach(e => e.setAttribute("fill", "#f84079"))
-            document.querySelectorAll('[fill="#216e39"]')?.forEach(e => e.setAttribute("fill", "#f60f56"))          
+            document.querySelectorAll('[fill="#216e39"]')?.forEach(e => e.setAttribute("fill", "#f60f56"))
