@@ -20,9 +20,9 @@ h3 {
 .entry { 
  color: #ABB2BF;
 }
-h2.field svg {
- display:none;
-}
+# h2.field svg {
+# display:none;
+# }
 div.items-wrapper {
  background: #22272e;
  border-radius: 6px;
