@@ -123,10 +123,10 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-10.2, 11.454545454545453)">
+                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
+                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
                             </g>
                         </g>
                         <g transform="translate(1.7, 1)">
@@ -160,50 +160,13 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.454545454545453)">
-                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
-                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(3.4, 2)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(5.1, 3)">
+                        <g transform="translate(3.4, 2)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -240,7 +203,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(6.8, 4)">
+                        <g transform="translate(5.1, 3)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -277,7 +240,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(8.5, 5)">
+                        <g transform="translate(6.8, 4)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -314,7 +277,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(10.2, 6)">
+                        <g transform="translate(8.5, 5)">
                             <g transform="translate(0, 5.454545454545454)">
                                 <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
@@ -351,7 +314,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(11.9, 7)">
+                        <g transform="translate(10.2, 6)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -388,7 +351,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(13.6, 8)">
+                        <g transform="translate(11.9, 7)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -425,7 +388,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(15.299999999999999, 9)">
+                        <g transform="translate(13.6, 8)">
                             <g transform="translate(0, 5.454545454545454)">
                                 <path fill="#fca3be" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#fca3be" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
@@ -462,7 +425,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(17, 10)">
+                        <g transform="translate(15.299999999999999, 9)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -499,7 +462,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(18.7, 11)">
+                        <g transform="translate(17, 10)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -536,7 +499,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1818181818181817 1.7,4.181818181818182 z"/>
                             </g>
                         </g>
-                        <g transform="translate(20.4, 12)">
+                        <g transform="translate(18.7, 11)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -573,7 +536,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(22.099999999999998, 13)">
+                        <g transform="translate(20.4, 12)">
                             <g transform="translate(0, 3.2727272727272725)">
                                 <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.727272727272727 0,3.727272727272727 z"/>
@@ -610,7 +573,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(23.8, 14)">
+                        <g transform="translate(22.099999999999998, 13)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -627,14 +590,14 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.909090909090908)">
-                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
-                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                                <path fill="#f84079" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#f84079" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#f84079" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
                             </g>
                             <g transform="translate(-6.8, 8.909090909090908)">
-                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
-                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                                <path fill="#f84079" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#f84079" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#f84079" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -647,7 +610,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(25.5, 15)">
+                        <g transform="translate(23.8, 14)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -684,7 +647,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(27.2, 16)">
+                        <g transform="translate(25.5, 15)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -701,9 +664,46 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.454545454545453)">
-                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
-                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
+                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(27.2, 16)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -843,10 +843,10 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.454545454545454)">
+                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
+                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -880,10 +880,10 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.454545454545454)">
-                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
-                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1139,10 +1139,10 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 6.909090909090908)">
+                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1176,10 +1176,10 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 6.909090909090908)">
-                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
-                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1213,10 +1213,10 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 6.363636363636363)">
+                                <path fill="#f84079" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#f84079" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6363636363636362 0,2.6363636363636362 z"/>
+                                <path fill="#f84079" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6363636363636362 1.7,3.6363636363636362 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1240,43 +1240,6 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                             </g>
                         </g>
                         <g transform="translate(52.699999999999996, 31)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 6.363636363636363)">
-                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6363636363636362 0,2.6363636363636362 z"/>
-                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6363636363636362 1.7,3.6363636363636362 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(54.4, 32)">
                             <g transform="translate(0, 3.8181818181818183)">
                                 <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.181818181818182 0,3.1818181818181817 z"/>
@@ -1313,16 +1276,16 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#fca3be" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
                             </g>
                         </g>
-                        <g transform="translate(56.1, 33)">
+                        <g transform="translate(54.4, 32)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.454545454545454)">
-                                <path fill="#fca3be" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#fca3be" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
-                                <path fill="#fca3be" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
+                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1330,9 +1293,9 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.454545454545453)">
-                                <path fill="#fca3be" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#fca3be" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
-                                <path fill="#fca3be" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
+                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.2727272727272725)">
                                 <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1340,9 +1303,46 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.727272727272727 1.7,4.727272727272727 z"/>
                             </g>
                             <g transform="translate(-8.5, 9.909090909090908)">
-                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
-                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(56.1, 33)">
+                            <g transform="translate(0, 4.909090909090908)">
+                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1351,10 +1351,10 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                             </g>
                         </g>
                         <g transform="translate(57.8, 34)">
-                            <g transform="translate(0, 4.909090909090908)">
-                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
-                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                            <g transform="translate(0, 6)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1482,43 +1482,6 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(64.6, 38)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-6.8, 9.454545454545453)">
                                 <path fill="#fca3be" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#fca3be" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
@@ -1535,7 +1498,7 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(66.3, 39)">
+                        <g transform="translate(64.6, 38)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1555,6 +1518,43 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.2727272727272725 0,4.2727272727272725 z"/>
                                 <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.2727272727272725 1.7,5.2727272727272725 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(66.3, 39)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1652,10 +1652,10 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-1.7, 2.090909090909091)">
+                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.909090909090909 0,5.909090909090909 z"/>
+                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.909090909090909 1.7,6.909090909090909 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1689,15 +1689,15 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 2.090909090909091)">
-                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.909090909090909 0,5.909090909090909 z"/>
-                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.909090909090909 1.7,6.909090909090909 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
+                            <g transform="translate(-1.7, 7)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 6.363636363636363)">
+                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6363636363636362 0,2.6363636363636362 z"/>
+                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6363636363636362 1.7,3.6363636363636362 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1726,15 +1726,15 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
+                            <g transform="translate(-1.7, 4.818181818181818)">
+                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.181818181818182 0,3.1818181818181817 z"/>
+                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1818181818181817 1.7,4.181818181818182 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 6.363636363636363)">
-                                <path fill="#f84079" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#f84079" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6363636363636362 0,2.6363636363636362 z"/>
-                                <path fill="#f84079" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6363636363636362 1.7,3.6363636363636362 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1763,10 +1763,10 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 4.818181818181818)">
-                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.181818181818182 0,3.1818181818181817 z"/>
-                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1818181818181817 1.7,4.181818181818182 z"/>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1805,20 +1805,20 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 6.363636363636363)">
+                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6363636363636362 0,2.6363636363636362 z"/>
+                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6363636363636362 1.7,3.6363636363636362 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-5.1, 8.454545454545453)">
+                                <path fill="#fca3be" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fca3be" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
+                                <path fill="#fca3be" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-6.8, 8.909090909090908)">
+                                <path fill="#fca3be" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fca3be" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#fca3be" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1832,43 +1832,6 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                             </g>
                         </g>
                         <g transform="translate(79.89999999999999, 47)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 6.363636363636363)">
-                                <path fill="#f84079" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#f84079" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6363636363636362 0,2.6363636363636362 z"/>
-                                <path fill="#f84079" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6363636363636362 1.7,3.6363636363636362 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 8.454545454545453)">
-                                <path fill="#fca3be" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#fca3be" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
-                                <path fill="#fca3be" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 8.909090909090908)">
-                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
-                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(81.6, 48)">
                             <g transform="translate(0, 0)">
                                 <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
@@ -1905,16 +1868,16 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.727272727272727 1.7,4.727272727272727 z"/>
                             </g>
                         </g>
-                        <g transform="translate(83.3, 49)">
+                        <g transform="translate(81.6, 48)">
                             <g transform="translate(0, 6)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.909090909090908)">
-                                <path fill="#fca3be" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#fca3be" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
-                                <path fill="#fca3be" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1922,9 +1885,9 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 6.818181818181818)">
-                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.181818181818182 0,3.1818181818181817 z"/>
-                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1818181818181817 1.7,4.181818181818182 z"/>
+                                <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.181818181818182 0,3.1818181818181817 z"/>
+                                <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1818181818181817 1.7,4.181818181818182 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1937,16 +1900,53 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 10.909090909090908)">
-                                <path fill="#fca3be" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#fca3be" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
-                                <path fill="#fca3be" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(83.3, 49)">
+                            <g transform="translate(0, 4.909090909090908)">
+                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
                         <g transform="translate(85, 50)">
-                            <g transform="translate(0, 4.909090909090908)">
-                                <path fill="#fca3be" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#fca3be" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
-                                <path fill="#fca3be" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                            <g transform="translate(0, 6)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1980,52 +1980,15 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                             </g>
                         </g>
                         <g transform="translate(86.7, 51)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 1.0909090909090906)">
                                 <path fill="#f60f56" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#f60f56" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.909090909090909 0,5.909090909090909 z"/>
                                 <path fill="#f60f56" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.909090909090909 1.7,6.909090909090909 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.909090909090908)">
-                                <path fill="#fca3be" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#fca3be" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
-                                <path fill="#fca3be" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                                <path fill="#fa729b" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#fa729b" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#fa729b" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2053,8 +2016,13 @@ svg &gt; foreignObject &gt; div.items-wrapper &gt; section &gt; div &gt; section
                                 <path fill="#fca3be" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
                             </g>
                         </g>
-                        <g transform="translate(90.1, 53)">
+                        <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 6)">
+                                <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
                                 <path fill="#001722" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#001722" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#001722" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
