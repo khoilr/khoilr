@@ -87,28 +87,28 @@ div.items-wrapper {
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 54.08%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">68%</span>
+                                <div class="bar" style="width: 38.936%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">49%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SQL</span>
-                                <div class="bar" style="width: 15.808000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 24.24%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">30%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTTP Request</span>
-                                <div class="bar" style="width: 4.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 7.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 4.632%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 4.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Prisma</span>
-                                <div class="bar" style="width: 0.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <span class="name">CSV</span>
+                                <div class="bar" style="width: 1.9920000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -119,18 +119,23 @@ div.items-wrapper {
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">VS Code</span>
-                                <div class="bar" style="width: 71.32000000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">89%</span>
+                                <div class="bar" style="width: 69.392%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">87%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Postman</span>
-                                <div class="bar" style="width: 4.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 7.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">DBeaverCommunity</span>
+                                <div class="bar" style="width: 3.024%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">iTerm2</span>
-                                <div class="bar" style="width: 4%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 0.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
